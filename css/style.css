@@ -432,9 +432,10 @@ body::-webkit-scrollbar {
     }
 
     .bar-nav > .top-bar > .logo > .links {
-        padding: 3rem 3rem;
+        padding: 3rem 4.8rem;
 
-        color: #fffffe;
+        color: #111;
+        background-color: #fffffe;
     }
 
     .bar-nav > nav ul {
@@ -458,7 +459,7 @@ body::-webkit-scrollbar {
 
         text-align: center;
 
-        background: #111;
+        background: #e5e4e2;
 
         flex-basis: 100%;
     }
@@ -484,8 +485,8 @@ body::-webkit-scrollbar {
 
         text-align: center;
 
-        color: #fff;
-        background-color: #333;
+        color: #111;
+        background-color: #e5e4e2;
 
         align-self: flex-end;
     }
@@ -600,15 +601,15 @@ body::-webkit-scrollbar {
 #work > .content > .timeline {
     padding-top: 5rem;
 
-    color: #111;
-    background-color: #111;
+    color: #e5e4e2;
+    /*    background-color: #111;*/
 }
 
 #work > .content > .timeline2 {
     margin-top: 10rem;
 
-    color: #111;
-    background-color: #111;
+    color: #e5e4e2;
+    /*    background-color: #111;*/
 }
 
 #work > .content > .photo-links {
