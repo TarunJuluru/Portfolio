@@ -85,7 +85,7 @@ button:hover {
 /*default typography styles*/
 
 .links {
-    font-family: 'Poppins', sans-serif;
+    /*    font-family: 'Poppins', sans-serif;*/
     font-family: 'Fugaz One', cursive;
     font-size: 1.75rem;
     font-weight: 500;
@@ -101,7 +101,7 @@ button:hover {
 }
 
 .main-headings {
-    font-family: 'Poppins', sans-serif;
+    /*    font-family: 'Poppins', sans-serif;*/
     font-family: 'Fugaz One', cursive;
     font-size: 12rem;
     font-weight: 900;
@@ -122,7 +122,7 @@ button:hover {
 }
 
 .highlights {
-    font-family: 'Poppins', sans-serif;
+    /*    font-family: 'Poppins', sans-serif;*/
     font-family: 'Fugaz One', cursive;
     font-size: 1.75rem;
     font-weight: 500;
@@ -139,7 +139,7 @@ button:hover {
     /*    opacity: .8;*/
     font-family: 'Poppins', sans-serif;
     font-size: 2rem;
-    font-weight: 500;
+    font-weight: 400;
     font-style: normal;
     line-height: 3.6rem;
 
@@ -425,7 +425,7 @@ header > .main-content > p > a {
     }
 
     .bar-nav > .top-bar > .logo > .links {
-        padding: 3rem 5rem;
+        padding: 3rem 3rem;
 
         color: #fffffe;
     }
@@ -756,7 +756,8 @@ header > .main-content > p > a {
         margin-top: 10%;
         margin-bottom: 20%;
 
-        opacity: .8;
+        opacity: .4;
+        font-family: 'poppins', sans-serif;
     }
 
     #work > .content {
