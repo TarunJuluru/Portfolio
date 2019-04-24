@@ -431,6 +431,10 @@ body::-webkit-scrollbar {
         margin: 0 auto;
     }
 
+    .bar-nav > .nav-toggle {
+        padding-top: .25rem;
+    }
+
     .bar-nav > .top-bar > .logo > .links {
         padding: 3rem 4.8rem;
 
@@ -475,7 +479,7 @@ body::-webkit-scrollbar {
         height: 8rem;
 
         color: #fffffe;
-        background: #111;
+        background: #fffffe;
     }
 
     .bar-nav > .top-bar > .menu-button > span.content {
