@@ -162,9 +162,9 @@ a:hover {
     /*font-family: 'Poppins', sans-serif;*/
     font-family: 'Inter', sans-serif;
     font-size: 2rem;
-    font-weight: 300;
+    font-weight: 400;
     font-style: normal;
-    line-height: 3.6rem;
+    line-height: 3.2rem;
 
     text-align: left;
     letter-spacing: .04rem;
@@ -1412,6 +1412,7 @@ body::-webkit-scrollbar {
     background-color: #111;
 
     /*font-family: 'Poppins', sans-serif;*/
+    font-family: 'Inter', sans-serif;
 
     opacity: .8;
 }
@@ -1429,6 +1430,7 @@ body::-webkit-scrollbar {
     background-color: #111;
 
     /*font-family: 'Poppins', sans-serif;*/
+    font-family: 'Inter', sans-serif;
 
     opacity: .8;
 }
@@ -1457,7 +1459,6 @@ body::-webkit-scrollbar {
 
 #get-in-touch > .content > .emails > .gmail {
     color: #e5e4e2;
-
 }
 
 #get-in-touch > .content > .emails > .gmail > .highlights {
