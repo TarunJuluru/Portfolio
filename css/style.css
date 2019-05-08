@@ -346,6 +346,12 @@ body::-webkit-scrollbar {
     bottom: 3rem;
 }
 
+@keyframes blink {
+    50% {
+    opacity: 0;
+    }
+}
+
 @media (max-width: 1280px) {
     .header > .main-content > .main-buttons > a > button > .dot {
         bottom: 1rem;
