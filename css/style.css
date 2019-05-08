@@ -352,11 +352,6 @@ body::-webkit-scrollbar {
     }
 }
 
-@keyframes blink {
-    50% {
-        opacity: 0.0;
-    }
-}
 
 .header > .main-content > h1.main-headings > span {
     color: #e5e4e2;
@@ -385,7 +380,7 @@ body::-webkit-scrollbar {
 @media (max-width: 1800px) {
     .header > .main-content > h1.main-headings {
         font-size: 10rem;
-        line-height: 12rem;
+        line-height: 10rem;
     }
 }
 
@@ -400,11 +395,7 @@ body::-webkit-scrollbar {
 @media (max-width: 1440px) {
     .header > .main-content > h1.main-headings {
         font-size: 8rem;
-        line-height: 10rem;
-    }
-
-    .header > .main-content > .highlights {
-        margin-top: 4%;
+        line-height: 8rem;
     }
 }
 
