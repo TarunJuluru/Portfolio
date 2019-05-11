@@ -913,6 +913,7 @@ body::-webkit-scrollbar {
 #articles > .content > .brd-dp > .dp > .article-info > .photo-links > .tag {
     font-size: 1.4rem;
     font-weight: bold;
+    font-family: 'work sans', sans-serif;
 
     position: absolute;
     z-index: 2;
