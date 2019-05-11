@@ -101,14 +101,14 @@ button:hover {
 .links {
     /*font-family: 'Poppins', sans-serif;*/
     font-family: 'Work Sans', sans-serif;
-    font-size: 1.75rem;
+    font-size: 2rem;
     font-weight: 500;
     font-style: normal;
     line-height: 2rem;
 
     text-align: left;
     text-decoration: none;
-    letter-spacing: .08rem;
+    /*    letter-spacing: .08rem;*/
     text-transform: uppercase;
 
     color: #111;
@@ -132,7 +132,7 @@ a:hover {
     font-style: normal;
     line-height: 10rem;
 
-    letter-spacing: .04rem;
+    /*    letter-spacing: .04rem;*/
     text-transform: uppercase;
 
     color: #111;
@@ -148,12 +148,12 @@ a:hover {
 .highlights {
     /*font-family: 'Poppins', sans-serif;*/
     font-family: 'Work Sans', sans-serif;
-    font-size: 1.75rem;
-    font-weight: 500;
+    font-size: 2rem;
+    font-weight: 400;
     font-style: normal;
     line-height: 2rem;
 
-    letter-spacing: .08em;
+    /*    letter-spacing: .08em;*/
     text-transform: uppercase;
 
     color: #111;
@@ -163,13 +163,13 @@ a:hover {
     /*    opacity: .8;*/
     /*font-family: 'Poppins', sans-serif;*/
     font-family: 'Work Sans', sans-serif;
-    font-size: 2rem;
+    font-size: 2.4rem;
     font-weight: 400;
     font-style: normal;
-    line-height: 3.2rem;
+    line-height: 3.6rem;
 
     text-align: left;
-    letter-spacing: .04rem;
+    /*    letter-spacing: .04rem;*/
 
     color: #333;
 }
@@ -485,7 +485,7 @@ body::-webkit-scrollbar {
     }
 
     .bar-nav > .top-bar > .logo > .links {
-        padding: 3rem 4.8rem;
+        padding: 3rem 4rem;
 
         color: #111;
         background-color: #fffffe;
@@ -579,7 +579,7 @@ body::-webkit-scrollbar {
 
 
 #aboutme > .content > .para-photo-links > .para p {
-    padding-bottom: 3rem;
+    padding-bottom: 5rem;
 
     color: #333;
 }
@@ -750,8 +750,8 @@ body::-webkit-scrollbar {
     margin-top: 10%;
     margin-bottom: 20%;
 
-    /*    opacity: .8;*/
-    color: #333;
+    opacity: .8;
+    color: #e5e4e2;
 }
 
 
