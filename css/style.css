@@ -534,7 +534,7 @@ body::-webkit-scrollbar {
     .bar-nav > .top-bar > .menu-button > span.content {
         position: relative;
 
-        padding: 4rem 8rem 3rem 8rem;
+        padding: 4rem 5rem 3rem 5rem;
 
         text-align: center;
 
