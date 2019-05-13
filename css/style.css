@@ -2,7 +2,7 @@
 @import url('https://rsms.me/inter/inter.css');
 
 html {
-    font-family: 'Work Sans', sans-serif;
+    font-family: 'Poppins', sans-serif;
 }
 
 @supports (font-variation-settings: normal) {
@@ -30,7 +30,7 @@ ul {
 
 html,
 body {
-    /*font-family: 'Poppins', sans-serif;*/
+
     /* base size */
     font-size: 8px;
 
@@ -99,16 +99,15 @@ button:hover {
 /*default typography styles*/
 
 .links {
-    /*font-family: 'Poppins', sans-serif;*/
-    font-family: 'Work Sans', sans-serif;
-    font-size: 2rem;
-    font-weight: 600;
+    font-family: 'Poppins', sans-serif;
+    font-size: 1.6rem;
+    font-weight: 500;
     font-style: normal;
     line-height: 2rem;
 
     text-align: left;
     text-decoration: none;
-    /*    letter-spacing: .08rem;*/
+    letter-spacing: .08rem;
     text-transform: uppercase;
 
     color: #111;
@@ -125,8 +124,7 @@ a:hover {
 }
 
 .main-headings {
-    /*font-family: 'Poppins', sans-serif;*/
-    font-family: 'Work Sans', sans-serif;
+    font-family: 'Poppins', sans-serif;
     font-size: 12rem;
     font-weight: 900;
     font-style: normal;
@@ -146,14 +144,14 @@ a:hover {
 }
 
 .highlights {
-    /*font-family: 'Poppins', sans-serif;*/
-    font-family: 'Work Sans', sans-serif;
-    font-size: 2rem;
-    font-weight: 600;
+
+    font-family: 'Poppins', sans-serif;
+    font-size: 1.6rem;
+    font-weight: 500;
     font-style: normal;
     line-height: 2rem;
 
-    /*    letter-spacing: .08em;*/
+    letter-spacing: .08em;
     text-transform: uppercase;
 
     color: #111;
@@ -161,16 +159,15 @@ a:hover {
 
 .paragraphs {
     /*    opacity: .8;*/
-    /*font-family: 'Poppins', sans-serif;*/
-    font-family: 'Work Sans', sans-serif;
-    font-size: 2.4rem;
+    font-family: 'Poppins', sans-serif;
+    font-size: 2rem;
     font-weight: 400;
     font-style: normal;
     line-height: 3.6rem;
     word-spacing: -0.2rem;
 
     text-align: left;
-    /*    letter-spacing: .04rem;*/
+    letter-spacing: .04rem;
 
     color: #333;
 }
@@ -250,7 +247,7 @@ body::-webkit-scrollbar {
     text-transform: capitalize;
 
     color: #111;
-    background-color: #e5e4e2;
+    background-color: #fffffe;
 
     align-self: flex-end;
 }
@@ -266,7 +263,7 @@ body::-webkit-scrollbar {
     transition: all .2s ease;
 
     opacity: 0;
-    background: #e5e4e2;
+    background: #fffffe;
 }
 
 .bar-nav > .nav-toggle {
@@ -365,14 +362,14 @@ body::-webkit-scrollbar {
 
 
 .header > .main-content > h1.main-headings > span {
-    color: #e5e4e2;
+    color: #fffffe;
 }
 
 .header > .main-content > p {
 
     margin-top: 5rem;
 
-    color: #e5e4e2;
+    color: #fffffe;
 }
 
 .header > .main-content > p > a.links {
@@ -512,7 +509,7 @@ body::-webkit-scrollbar {
 
         text-align: center;
 
-        background: #e5e4e2;
+        background: #fffffe;
 
         flex-basis: 100%;
     }
@@ -539,7 +536,7 @@ body::-webkit-scrollbar {
         text-align: center;
 
         color: #111;
-        background-color: #e5e4e2;
+        background-color: #fffffe;
 
         align-self: flex-end;
     }
@@ -552,7 +549,7 @@ body::-webkit-scrollbar {
     /* background: #111;
     background:         linear-gradient(to right, #111, #fffffe); */
 
-    background-color: #e5e4e2;
+    background-color: #fffffe;
 
 
 
@@ -654,14 +651,14 @@ body::-webkit-scrollbar {
 #work > .content > .timeline {
     padding-top: 5rem;
 
-    color: #e5e4e2;
+    color: #fffffe;
     /*    background-color: #111;*/
 }
 
 #work > .content > .timeline2 {
     margin-top: 10rem;
 
-    color: #e5e4e2;
+    color: #fffffe;
     /*    background-color: #111;*/
 }
 
@@ -694,7 +691,7 @@ body::-webkit-scrollbar {
     padding-left: 5%;
 
     border-radius: .25rem;
-    background-color: #e5e4e2;
+    background-color: #fffffe;
 
     flex-basis: 20%;
     /* box-shadow: 0px 16px 40px 0px rgba(20, 20, 20, 0.1); */
@@ -751,7 +748,7 @@ body::-webkit-scrollbar {
     margin-bottom: 20%;
 
     opacity: .8;
-    color: #e5e4e2;
+    color: #fffffe;
 }
 
 
@@ -797,7 +794,7 @@ body::-webkit-scrollbar {
         margin-bottom: 20%;
 
         opacity: .4;
-        /*font-family: 'Poppins', sans-serif;*/
+
     }
 
     #work > .content {
@@ -871,7 +868,7 @@ body::-webkit-scrollbar {
 #articles > .content > .brd-dp > .brd > .article-info > .para > p {
     padding-top: 5%;
     padding-right: 5%;
-    color: #e5e4e2;
+    color: #fffffe;
 }
 
 #articles > .content > .brd-dp > .brd > .article-info > a > button {
@@ -913,7 +910,7 @@ body::-webkit-scrollbar {
 #articles > .content > .brd-dp > .dp > .article-info > .photo-links > .tag {
     font-size: 1.4rem;
     font-weight: bold;
-    font-family: 'work sans', sans-serif;
+    font-family: 'Poppins', sans-serif;
 
     position: absolute;
     z-index: 2;
@@ -924,7 +921,7 @@ body::-webkit-scrollbar {
     text-transform: capitalize;
 
     color: #333;
-    background-color: #e5e4e2;
+    background-color: #fffffe;
 }
 
 @media (max-width: 1280px) {
@@ -1007,7 +1004,7 @@ body::-webkit-scrollbar {
     /* background: #111;
     background:         linear-gradient(to right, #111, #fffffe); */
 
-    background-color: #e5e4e2;
+    background-color: #fffffe;
 
 
 
@@ -1159,7 +1156,7 @@ body::-webkit-scrollbar {
 #workflow {
     padding-bottom: 20rem;
 
-    background-color: #e5e4e2;
+    background-color: #fffffe;
     /*    height: 100vh;*/
 }
 
@@ -1359,7 +1356,7 @@ body::-webkit-scrollbar {
 #get-in-touch > .content > p {
     padding-top: 10rem;
 
-    color: #e5e4e2;
+    color: #fffffe;
 }
 
 #get-in-touch > .content > .emails {
@@ -1410,12 +1407,12 @@ body::-webkit-scrollbar {
     text-transform: capitalize;
 
     border: none;
-    border-bottom: .125rem solid #e5e4e2;
+    border-bottom: .125rem solid #fffffe;
     border-radius: .125rem;
     background-color: #111;
 
-    /*font-family: 'Poppins', sans-serif;*/
-    font-family: 'Work Sans', sans-serif;
+
+    font-family: 'Poppins', sans-serif;
 
     opacity: .8;
 }
@@ -1428,12 +1425,12 @@ body::-webkit-scrollbar {
     text-transform: none;
 
     border: none;
-    border-bottom: .125rem solid #e5e4e2;
+    border-bottom: .125rem solid #fffffe;
     border-radius: .125rem;
     background-color: #111;
 
-    /*font-family: 'Poppins', sans-serif;*/
-    font-family: 'Work Sans', sans-serif;
+
+    font-family: 'Poppins', sans-serif;
 
     opacity: .8;
 }
@@ -1463,11 +1460,11 @@ body::-webkit-scrollbar {
 }
 
 #get-in-touch > .content > .emails > .gmail {
-    color: #e5e4e2;
+    color: #fffffe;
 }
 
 #get-in-touch > .content > .emails > .gmail > .highlights {
-    color: #e5e4e2;
+    color: #fffffe;
 }
 
 @media (max-width: 1280px) {
@@ -1580,7 +1577,7 @@ body::-webkit-scrollbar {
 
 
 #thank-you > .content > .highlights {
-    color: #e5e4e2;
+    color: #fffffe;
 }
 
 #thank-you > a > button {
@@ -1593,7 +1590,7 @@ body::-webkit-scrollbar {
     color: #111;
     border: none;
     border-radius: .125rem .125rem 0 0;
-    background: #e5e4e2;
+    background: #fffffe;
 }
 
 
@@ -1646,7 +1643,7 @@ body::-webkit-scrollbar {
     color: #111;
     border: none;
     border-radius: .125rem .125rem 0 0;
-    background: #e5e4e2;
+    background: #fffffe;
 }
 
 
@@ -1656,7 +1653,7 @@ body::-webkit-scrollbar {
 }
 
 .main-content > p.paragraphs {
-    color: #e5e4e2;
+    color: #fffffe;
 }
 
 .main-content > img {
@@ -1768,7 +1765,7 @@ body::-webkit-scrollbar {
 #details-info > .content > .details-info-section > p {
     margin-top: -2rem;
     padding-bottom: 5rem;
-    color: #e5e4e2;
+    color: #fffffe;
 }
 
 #details-info > .content > .details-info-section > .links {
@@ -1890,7 +1887,7 @@ body::-webkit-scrollbar {
 #gf-works > .content > .gf-works-section > p {
     margin-top: 2rem;
     padding-bottom: 5rem;
-    color: #e5e4e2;
+    color: #fffffe;
 }
 
 @media (max-width: 1280px) {
@@ -1922,13 +1919,13 @@ body::-webkit-scrollbar {
     margin-bottom: 5rem;
     padding: 5rem;
 
-    border-left: .125rem solid #e5e4e2;
+    border-left: .125rem solid #fffffe;
     background-color: #333;
 }
 
 #branding > .content > .branding-section > blockquote > p {
     font-style: italic;
-    color: #e5e4e2;
+    color: #fffffe;
 }
 
 
@@ -1939,7 +1936,7 @@ body::-webkit-scrollbar {
 #branding > .content > .branding-section > p {
     margin-top: -2rem;
     padding-bottom: 5rem;
-    color: #e5e4e2;
+    color: #fffffe;
 }
 
 #branding > .content > .branding-section > .links {
