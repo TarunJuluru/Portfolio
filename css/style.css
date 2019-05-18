@@ -172,15 +172,12 @@ a:hover {
     color: #333;
 }
 
-/*
 @media (max-width: 400px) {
     .paragraphs {
-        line-height: 4rem;
-
-        text-align: left;
+        font-size: 1.6rem;
+        line-height: 2.4rem;
     }
 }
-*/
 
 
 /*default typography styles*/
