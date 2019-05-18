@@ -4,34 +4,34 @@
 /*$ = jQuery*/
 
 
-$(document).ready(function () {
+$(document).ready(function() {
     "use strict";
 
     var $menu = $('.menu');
     var $backToTop = $(".back-to-top");
 
 
-    $menu.on("mouseover", function () {
+    $menu.on("mouseover", function() {
         $($("nav")[0]).addClass("nav-toggle");
     });
 
 
     //navigation interaction
-    $("nav").on("mouseover", function () {
+    $("nav").on("mouseover", function() {
         $($("nav")[0]).addClass("nav-toggle");
     });
 
-    $(".menu").on("mouseleave", function () {
+    $(".menu").on("mouseleave", function() {
         $($("nav")[0]).removeClass("nav-toggle");
     });
 
-    $("nav").on("mouseleave", function () {
+    $("nav").on("mouseleave", function() {
         $($("nav")[0]).removeClass("nav-toggle");
     });
 
 
     //smooth scrolling onClick nav links
-    $("nav").find("a").click(function (event) {
+    $("nav").find("a").click(function(event) {
         event.preventDefault();
         var section = $(this).attr("href");
         //        if (section !== "sitepages/bitlab.html") {
@@ -43,7 +43,7 @@ $(document).ready(function () {
 
 
     //scroll animation on click
-    $backToTop.on("click", function () {
+    $backToTop.on("click", function() {
         $("html, body").stop().animate({
             scrollTop: 0
         }, "slow");
