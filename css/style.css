@@ -501,7 +501,7 @@ body::-webkit-scrollbar {
     }
 
     .bar-nav > .top-bar > .logo > .links {
-        padding: 3rem 4rem;
+        /*        padding: 3em 4rem;*/
 
         color: #111;
         background-color: #fffffe;
@@ -526,11 +526,16 @@ body::-webkit-scrollbar {
     .bar-nav > nav ul li {
         padding: 2rem 0;
 
-        text-align: center;
+        text-align: left;
+        padding-left: 4rem;
 
         background: #fffffe;
 
         flex-basis: 100%;
+    }
+
+    .bar-nav > nav ul li a.links {
+        color: #111;
     }
 
     .bar-nav > nav ul li:last-child {
@@ -541,7 +546,7 @@ body::-webkit-scrollbar {
     .bar-nav > .top-bar {
         display: flex;
 
-        height: 8rem;
+        height: 12rem;
 
         color: #fffffe;
         background: #fffffe;
@@ -550,7 +555,7 @@ body::-webkit-scrollbar {
     .bar-nav > .top-bar > .menu-button > span.content {
         position: relative;
 
-        padding: 4rem 5rem 3rem 5rem;
+        /*        padding: 4rem 5rem 3rem 5rem;*/
 
         text-align: center;
 
