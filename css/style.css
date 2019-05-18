@@ -260,15 +260,15 @@ body::-webkit-scrollbar {
     height: 0;
     margin: 0 auto;
 
-    transition: all .2s ease;
+    transition: all .4s ease;
 
     opacity: 0;
-    background: #fffffe;
+    background: rgba(255, 255, 254, .4);
 }
 
 .bar-nav > .nav-toggle {
-    height: 6rem;
-    padding-top: 2rem;
+    /*    padding-top: 2rem;*/
+    /*    padding-bottom: 4rem;*/
 
     opacity: 1;
     border-top: .25rem solid #111;
@@ -284,12 +284,24 @@ body::-webkit-scrollbar {
     text-align: center;
 
     flex-grow: 1;
+    padding: 2rem;
+    background-color: rgba(255, 255, 254, .4);
 }
 
 
 .bar-nav > nav ul li a.links {
     text-transform: uppercase;
 
+    color: #fffffe;
+}
+
+.bar-nav > nav ul li:hover {
+    color: #111;
+    background-color: rgba(255, 255, 254, 1);
+    transition: all .8s ease;
+}
+
+.bar-nav > nav ul li:hover a {
     color: #111;
 }
 
@@ -350,7 +362,6 @@ body::-webkit-scrollbar {
     animation: blink 1s 0s infinite;
 
     color: #fffffe;
-    border-radius: 1rem;
     background-color: #fffffe;
 }
 
@@ -595,7 +606,7 @@ body::-webkit-scrollbar {
     border-bottom: .25rem solid #111;
     background-color: rgba(17, 17, 17, .2);
     padding: 2rem 4rem;
-    margin-right: 4rem;
+    margin-right: .25rem;
 }
 
 #aboutme > .content > .para-photo-links > .photo-links > .aboutme-buttons > a > button:hover {
@@ -703,7 +714,6 @@ body::-webkit-scrollbar {
     padding-top: 5%;
     padding-left: 5%;
 
-    border-radius: .25rem;
     background-color: #fffffe;
 
     flex-basis: 20%;
@@ -1436,7 +1446,7 @@ body::-webkit-scrollbar {
     opacity: .8;
     border: none;
     border-bottom: .125rem solid #fffffe;
-    border-radius: .125rem;
+
     background-color: #333;
 }
 
@@ -1452,7 +1462,7 @@ body::-webkit-scrollbar {
     opacity: .8;
     border: none;
     border-bottom: .125rem solid #fffffe;
-    border-radius: .125rem;
+
     background-color: #333;
 }
 
@@ -1535,16 +1545,21 @@ body::-webkit-scrollbar {
 
 #get-in-touch > .content > .social-media ul > li > a.links {
     margin-top: 8%;
-    margin-right: 5rem;
-    padding: 0 2rem 1rem 0rem;
-
-    text-decoration: none;
-
     color: #fffffe;
     border: none;
     border-bottom: .25rem solid #fffffe;
-    background-color: transparent;
+    background-color: rgba(255, 255, 254, .4);
+    padding: 2rem 4rem;
+    margin-right: .25rem;
 }
+
+#get-in-touch > .content > .social-media ul > li > a.links:hover {
+    color: #111;
+    background-color: rgba(255, 255, 254, 1);
+    transition: all .8s ease;
+}
+
+
 
 @media (max-width: 640px) {
     #get-in-touch > .content {
@@ -1612,12 +1627,17 @@ body::-webkit-scrollbar {
     right: 0;
     bottom: 0;
 
-    padding: 2rem 5rem;
-
-    color: #111;
+    color: #fffffe;
     border: none;
-    border-radius: .125rem .125rem 0 0;
-    background: #fffffe;
+    border-top: .25rem solid #fffffe;
+    background-color: rgba(255, 255, 254, .4);
+    padding: 2rem 4rem;
+}
+
+#thank-you > a > button:hover {
+    color: #111;
+    background-color: rgba(255, 255, 254, 1);
+    transition: all .8s ease;
 }
 
 
@@ -1663,14 +1683,18 @@ body::-webkit-scrollbar {
 }
 
 .main-content > .back > a {
-    padding: 2rem 5rem;
-
-    text-decoration: none;
-
-    color: #111;
+    color: #fffffe;
     border: none;
-    border-radius: .125rem .125rem 0 0;
-    background: #fffffe;
+    border-top: .25rem solid #fffffe;
+    background-color: rgba(255, 255, 254, .4);
+    padding: 2rem 4rem;
+    text-decoration: none;
+}
+
+.main-content > .back > a:hover {
+    color: #111;
+    background-color: rgba(255, 255, 254, 1);
+    transition: all .8s ease;
 }
 
 
@@ -1715,7 +1739,7 @@ body::-webkit-scrollbar {
 #details > .content > .left-right > .left > .highlights {
     margin-top: 1rem;
 
-    color: #333;
+    color: #fffffe;
 }
 
 #details > .content > .left-right > .left > ul {
@@ -1734,7 +1758,7 @@ body::-webkit-scrollbar {
 #details > .content > .left-right > .right > .highlights {
     margin-top: 1rem;
 
-    color: #333;
+    color: #fffffe;
 }
 
 #details > .content > .left-right > .right > ul {
@@ -1988,13 +2012,13 @@ body::-webkit-scrollbar {
 
     text-decoration: none;
 
-    color: #333;
+    color: #fffffe;
 }
 
 #branding > .content > .branding-section > .highlights {
     margin-bottom: 2rem;
 
-    color: #333;
+    color: #fffffe;
 }
 
 
