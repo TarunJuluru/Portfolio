@@ -282,7 +282,7 @@ body::-webkit-scrollbar {
 
     flex-grow: 1;
     padding: 2rem;
-    background-color: rgba(255, 255, 254, .4);
+    background-color: rgba(255, 255, 254, .2);
 }
 
 
@@ -397,7 +397,7 @@ body::-webkit-scrollbar {
     color: #fffffe;
     border: none;
     border-bottom: .25rem solid #fffffe;
-    background-color: rgba(255, 255, 254, .4);
+    background-color: rgba(255, 255, 254, .2);
     padding: 2rem 4rem;
 }
 
@@ -908,7 +908,7 @@ body::-webkit-scrollbar {
     color: #fffffe;
     border: none;
     border-bottom: .25rem solid #fffffe;
-    background-color: rgba(255, 255, 254, .4);
+    background-color: rgba(255, 255, 254, .2);
     padding: 2rem 4rem;
 }
 
@@ -937,7 +937,7 @@ body::-webkit-scrollbar {
     color: #fffffe;
     border: none;
     border-bottom: .25rem solid #fffffe;
-    background-color: rgba(255, 255, 254, .4);
+    background-color: rgba(255, 255, 254, .2);
     padding: 2rem 4rem;
 }
 
@@ -1490,7 +1490,7 @@ body::-webkit-scrollbar {
     color: #fffffe;
     border: none;
     border-bottom: .25rem solid #fffffe;
-    background-color: rgba(255, 255, 254, .4);
+    background-color: rgba(255, 255, 254, .2);
     padding: 2rem 4rem;
 }
 
@@ -1552,7 +1552,7 @@ body::-webkit-scrollbar {
     color: #fffffe;
     border: none;
     border-bottom: .25rem solid #fffffe;
-    background-color: rgba(255, 255, 254, .4);
+    background-color: rgba(255, 255, 254, .2);
     padding: 2rem 4rem;
     margin-right: .25rem;
 }
@@ -1634,7 +1634,7 @@ body::-webkit-scrollbar {
     color: #fffffe;
     border: none;
     border-top: .25rem solid #fffffe;
-    background-color: rgba(255, 255, 254, .4);
+    background-color: rgba(255, 255, 254, .2);
     padding: 2rem 4rem;
 }
 
@@ -1690,7 +1690,7 @@ body::-webkit-scrollbar {
     color: #fffffe;
     border: none;
     border-top: .25rem solid #fffffe;
-    background-color: rgba(255, 255, 254, .4);
+    background-color: rgba(255, 255, 254, .2);
     padding: 2rem 4rem;
     text-decoration: none;
 }
