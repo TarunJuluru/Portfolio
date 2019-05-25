@@ -148,7 +148,7 @@ a:hover {
 .highlights {
     font-family: 'Work Sans', sans-serif;
     font-size: 1.4rem;
-    font-weight: 400;
+    font-weight: 700;
     font-style: normal;
     line-height: 2rem;
 
@@ -439,6 +439,7 @@ body::-webkit-scrollbar {
     .header > .main-content > h1.main-headings {
         font-size: 6rem;
         line-height: 5rem;
+        margin-top: -16rem;
         /*        text-wrap: wrap;*/
     }
 }
@@ -499,8 +500,8 @@ body::-webkit-scrollbar {
     .bar-nav > .top-bar > .logo > .links {
         /*        padding: 3em 4rem;*/
 
-        color: #1242DE;
-        background-color: #FFEB35;
+        color: #fffffe;
+        background-color: #1242DE;
     }
 
     .bar-nav > nav ul {
@@ -545,7 +546,7 @@ body::-webkit-scrollbar {
         height: 12rem;
 
         color: #1242DE;
-        background: #FFEB35;
+        background: #1242DE;
     }
 
     .bar-nav > .top-bar > .menu-button > span.content {
@@ -555,8 +556,8 @@ body::-webkit-scrollbar {
 
         text-align: center;
 
-        color: #1242DE;
-        background-color: #FFEB35;
+        color: #fffffe;
+        background-color: #1242DE;
 
         align-self: flex-end;
     }
