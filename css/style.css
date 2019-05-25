@@ -388,7 +388,7 @@ body::-webkit-scrollbar {
 }
 */
 
-.header > .main-content > h1 > a.links {
+.header > .main-content > h1 > span {
     color: #fffffe;
     font-size: 10rem;
     font-weight: 900;
@@ -401,7 +401,7 @@ body::-webkit-scrollbar {
     color: #1242DE;
     border: none;
     background-color: #FFEB35;
-    padding: 3rem 4rem;
+    padding: 2rem 4rem;
 }
 
 .header > .main-content > .main-buttons > a > button:hover {
