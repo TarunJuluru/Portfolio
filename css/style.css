@@ -105,7 +105,7 @@ button:hover {
 
     text-align: left;
     text-decoration: none;
-    letter-spacing: .04rem;
+    letter-spacing: .08rem;
     text-transform: uppercase;
 
     color: #1242DE;
@@ -131,7 +131,7 @@ a:hover {
     font-weight: 900;
     font-style: normal;
     line-height: 8rem;
-    letter-spacing: .04rem;
+    letter-spacing: .08rem;
 
     text-transform: uppercase;
 
@@ -152,7 +152,7 @@ a:hover {
     font-style: normal;
     line-height: 2rem;
 
-    letter-spacing: .04em;
+    letter-spacing: .08em;
     text-transform: uppercase;
 
     color: #1242DE;
@@ -209,8 +209,6 @@ body::-webkit-scrollbar {
 
     color: #1242DE;
     background-color: #fffffe;
-
-    /*    box-shadow: 0 2px 4px 0 hsla(0, 0%, 0%, 0.2);*/
 }
 
 .bar-nav > .top-bar > .logo,
@@ -281,7 +279,7 @@ body::-webkit-scrollbar {
     text-align: center;
 
     flex-grow: 1;
-    padding: 2rem;
+    padding: 3rem 2rem;
     background-color: #FFEB35;
 }
 
@@ -385,8 +383,6 @@ body::-webkit-scrollbar {
     color: #fffffe;
 }
 */
-
-.header > .main-content > h1 > span {}
 
 .header > .main-content > .main-buttons > a > button {
     position: relative;
@@ -603,7 +599,7 @@ body::-webkit-scrollbar {
     border: none;
 
     background-color: #FFEB35;
-    padding: 2rem 4rem;
+    padding: 3rem 4rem;
     margin-right: .25rem;
 }
 
@@ -715,7 +711,6 @@ body::-webkit-scrollbar {
     background-color: #fffffe;
 
     flex-basis: 20%;
-    /* box-shadow: 0px 16px 40px 0px rgba(20, 20, 20, 0.1); */
 }
 
 #work > .content > .photo-links > .work-info > a > button {
@@ -725,7 +720,7 @@ body::-webkit-scrollbar {
     border: none;
 
     background-color: #FFEB35;
-    padding: 2rem 4rem;
+    padding: 3rem 4rem;
     margin-right: 4rem;
 }
 
@@ -770,11 +765,11 @@ body::-webkit-scrollbar {
 }
 
 #work > .content > .note {
-    margin-top: 10%;
-    margin-bottom: 20%;
+    margin-top: 5%;
+    margin-bottom: 10%;
+    color: #fffffe;
 
-    /*    opacity: .8;*/
-    color: rgba(255, 255, 254, .4);
+    opacity: .8;
     text-transform: capitalize;
 
 }
@@ -904,7 +899,7 @@ body::-webkit-scrollbar {
     color: #1242DE;
     border: none;
     background-color: #FFEB35;
-    padding: 2rem 4rem;
+    padding: 3rem 4rem;
 }
 
 #articles > .content > .brd-dp > .brd > .article-info > a > button:hover {
@@ -933,7 +928,7 @@ body::-webkit-scrollbar {
     border: none;
 
     background-color: #FFEB35;
-    padding: 2rem 4rem;
+    padding: 3rem 4rem;
 }
 
 #articles > .content > .brd-dp > .dp > .article-info > a > button:hover {
@@ -955,8 +950,8 @@ body::-webkit-scrollbar {
 
     text-transform: capitalize;
 
-    color: #212121;
-    background-color: #fffffe;
+    color: #FFEB35;
+    background-color: #1242DE;
 }
 
 @media (max-width: 1280px) {
@@ -1119,7 +1114,7 @@ body::-webkit-scrollbar {
     border: none;
 
     background-color: #FFEB35;
-    padding: 2rem 4rem;
+    padding: 3rem 4rem;
     margin-right: 4rem;
 }
 
@@ -1438,13 +1433,13 @@ body::-webkit-scrollbar {
 
     width: 100%;
     margin-bottom: 5rem;
-    padding: 2rem 4rem;
+    padding: 3rem 4rem;
 
     text-transform: capitalize;
 
-    opacity: .8;
+    /*    opacity: .8;*/
     border: none;
-    border-bottom: .125rem solid #fffffe;
+
 
     background-color: #fffffe;
 }
@@ -1454,13 +1449,13 @@ body::-webkit-scrollbar {
     font-family: 'Poppins', sans-serif;
 
     width: 100%;
-    padding: 2rem 4rem;
+    padding: 3rem 4rem;
 
     text-transform: none;
 
-    opacity: .8;
+    /*    opacity: .8;*/
     border: none;
-    border-bottom: .125rem solid #fffffe;
+
 
     background-color: #fffffe;
 }
@@ -1469,15 +1464,15 @@ body::-webkit-scrollbar {
 #get-in-touch > .content > form > .form-row > .form-group > input::placeholder {
     font-weight: 400;
 
-    opacity: .8;
-    color: #fffffe;
+    /*    opacity: .8;*/
+    color: #1242DE;
 }
 
 #get-in-touch > .content > form > .form-row > .form-group > textarea::placeholder {
     font-weight: 400;
 
-    opacity: .8;
-    color: #fffffe;
+    /*    opacity: .8;*/
+    color: #1242DE;
 }
 
 #get-in-touch > .content > form > button {
@@ -1486,7 +1481,7 @@ body::-webkit-scrollbar {
     border: none;
 
     background-color: #FFEB35;
-    padding: 2rem 4rem;
+    padding: 3rem 4rem;
 }
 
 #get-in-touch > .content > form > button:hover {
@@ -1548,7 +1543,7 @@ body::-webkit-scrollbar {
     border: none;
 
     background-color: #FFEB35;
-    padding: 2rem 4rem;
+    padding: 3rem 4rem;
     margin-right: .25rem;
 }
 
@@ -1629,7 +1624,7 @@ body::-webkit-scrollbar {
     color: #1242DE;
     border: none;
     background-color: #FFEB35;
-    padding: 2rem 4rem;
+    padding: 3rem 4rem;
 }
 
 #thank-you > a > button:hover {
@@ -1685,7 +1680,7 @@ body::-webkit-scrollbar {
     border: none;
 
     background-color: #FFEB35;
-    padding: 2rem 4rem;
+    padding: 3rem 4rem;
     text-decoration: none;
 }
 
