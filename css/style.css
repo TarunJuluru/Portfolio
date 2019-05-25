@@ -97,7 +97,7 @@ button:hover {
 /*default typography styles*/
 
 .links {
-    font-family: 'Poppins', sans-serif;
+    font-family: 'Work Sans', sans-serif;
     font-size: 1.4rem;
     font-weight: 700;
     font-style: normal;
@@ -126,7 +126,7 @@ a:hover {
 */
 
 .main-headings {
-    font-family: 'Poppins', sans-serif;
+    font-family: 'Work Sans', sans-serif;
     font-size: 8rem;
     font-weight: 900;
     font-style: normal;
@@ -146,7 +146,7 @@ a:hover {
 }
 
 .highlights {
-    font-family: 'Poppins', sans-serif;
+    font-family: 'Work Sans', sans-serif;
     font-size: 1.4rem;
     font-weight: 400;
     font-style: normal;
@@ -160,9 +160,9 @@ a:hover {
 
 .paragraphs {
     /*    opacity: .8;*/
-    font-family: 'Poppins', sans-serif;
+    font-family: 'Work Sans', sans-serif;
     font-size: 2rem;
-    font-weight: 300;
+    font-weight: 400;
     font-style: normal;
     line-height: 3rem;
 
@@ -200,7 +200,6 @@ body::-webkit-scrollbar {
 
     width: 48%;
     margin: 0 auto;
-    /*    border-bottom: 0.125rem solid #1242DE;*/
 }
 
 
@@ -944,7 +943,7 @@ body::-webkit-scrollbar {
 }
 
 #articles > .content > .brd-dp > .dp > .article-info > .photo-links > .tag {
-    font-family: 'Poppins', sans-serif;
+    font-family: 'Work Sans', sans-serif;
     font-size: 1.4rem;
     font-weight: 600;
 
@@ -1435,7 +1434,7 @@ body::-webkit-scrollbar {
 
 
 #get-in-touch > .content > form > .form-row > .form-group > input {
-    font-family: 'Poppins', sans-serif;
+    font-family: 'Work Sans', sans-serif;
 
     width: 100%;
     margin-bottom: 5rem;
@@ -1452,7 +1451,7 @@ body::-webkit-scrollbar {
 
 
 #get-in-touch > .content > form > .form-row > .form-group > textarea {
-    font-family: 'Poppins', sans-serif;
+    font-family: 'Work Sans', sans-serif;
 
     width: 100%;
     padding: 3rem 4rem;
@@ -1586,7 +1585,7 @@ body::-webkit-scrollbar {
 
 @media (max-width: 400px) {
     #get-in-touch > .content > .social-media > ul > li {
-        margin-top: 5rem;
+        margin-top: 8rem;
     }
 
     #get-in-touch > .content > form {
@@ -1978,14 +1977,14 @@ body::-webkit-scrollbar {
     margin-bottom: 5rem;
     padding: 5rem;
 
-    border-left: .125rem solid #fffffe;
-    background-color: #212121;
+
+    background-color: #FFEB35;
 }
 
 #branding > .content > .branding-section > blockquote > p {
     font-style: italic;
 
-    color: #fffffe;
+    color: #1242DE;
 }
 
 
