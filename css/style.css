@@ -338,6 +338,12 @@ body::-webkit-scrollbar {
     color: #fffffe;
 }
 
+.header > .main-content > h1.main-headings > span {
+
+    color: #1242DE;
+    -webkit-text-stroke: .2rem #fffffe;
+}
+
 /*
 .header > .main-content > .highlights {
     color: #1242DE;
