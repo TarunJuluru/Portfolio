@@ -1,14 +1,16 @@
+/*
 @import url('https://rsms.me/inter/inter.css');
 
 html {
-    font-family: 'Inter', sans-serif;
+    font-family: 'inter', sans-serif;
 }
 
 @supports (font-variation-settings: normal) {
     html {
-        font-family: 'Inter', sans-serif;
+        font-family: 'inter', sans-serif;
     }
 }
+*/
 
 
 
@@ -95,7 +97,7 @@ button:hover {
 /*default typography styles*/
 
 .links {
-    font-family: 'Inter', sans-serif;
+    font-family: 'Poppins', sans-serif;
     font-size: 1.4rem;
     font-weight: 700;
     font-style: normal;
@@ -124,7 +126,7 @@ a:hover {
 */
 
 .main-headings {
-    font-family: 'Inter', sans-serif;
+    font-family: 'Poppins', sans-serif;
     font-size: 8rem;
     font-weight: 900;
     font-style: normal;
@@ -144,7 +146,7 @@ a:hover {
 }
 
 .highlights {
-    font-family: 'Inter', sans-serif;
+    font-family: 'Poppins', sans-serif;
     font-size: 1.4rem;
     font-weight: 400;
     font-style: normal;
@@ -158,7 +160,7 @@ a:hover {
 
 .paragraphs {
     /*    opacity: .8;*/
-    font-family: 'Inter', sans-serif;
+    font-family: 'Poppins', sans-serif;
     font-size: 2rem;
     font-weight: 300;
     font-style: normal;
@@ -392,7 +394,7 @@ body::-webkit-scrollbar {
     color: #1242DE;
     border: none;
     background-color: #FFEB35;
-    padding: 2rem 4rem;
+    padding: 3rem 4rem;
 }
 
 .header > .main-content > .main-buttons > a > button:hover {
@@ -495,7 +497,7 @@ body::-webkit-scrollbar {
         /*        padding: 3em 4rem;*/
 
         color: #1242DE;
-        background-color: #fffffe;
+        background-color: #FFEB35;
     }
 
     .bar-nav > nav ul {
@@ -520,7 +522,7 @@ body::-webkit-scrollbar {
         text-align: left;
         padding-left: 4rem;
 
-        background: #fffffe;
+        background: #FFEB35;
 
         flex-basis: 100%;
     }
@@ -539,8 +541,8 @@ body::-webkit-scrollbar {
 
         height: 12rem;
 
-        color: #fffffe;
-        background: #fffffe;
+        color: #1242DE;
+        background: #FFEB35;
     }
 
     .bar-nav > .top-bar > .menu-button > span.content {
@@ -551,7 +553,7 @@ body::-webkit-scrollbar {
         text-align: center;
 
         color: #1242DE;
-        background-color: #fffffe;
+        background-color: #FFEB35;
 
         align-self: flex-end;
     }
@@ -941,7 +943,7 @@ body::-webkit-scrollbar {
 }
 
 #articles > .content > .brd-dp > .dp > .article-info > .photo-links > .tag {
-    font-family: 'Inter', sans-serif;
+    font-family: 'Poppins', sans-serif;
     font-size: 1.4rem;
     font-weight: 600;
 
@@ -1432,7 +1434,7 @@ body::-webkit-scrollbar {
 
 
 #get-in-touch > .content > form > .form-row > .form-group > input {
-    font-family: 'Inter', sans-serif;
+    font-family: 'Poppins', sans-serif;
 
     width: 100%;
     margin-bottom: 5rem;
@@ -1449,7 +1451,7 @@ body::-webkit-scrollbar {
 
 
 #get-in-touch > .content > form > .form-row > .form-group > textarea {
-    font-family: 'Inter', sans-serif;
+    font-family: 'Poppins', sans-serif;
 
     width: 100%;
     padding: 2rem 4rem;
