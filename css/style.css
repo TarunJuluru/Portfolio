@@ -125,7 +125,7 @@ a:hover {
 
 .main-headings {
     font-family: 'Inter', sans-serif;
-    font-size: 10rem;
+    font-size: 8rem;
     font-weight: 900;
     font-style: normal;
     line-height: 8rem;
@@ -162,7 +162,7 @@ a:hover {
     font-size: 2rem;
     font-weight: 300;
     font-style: normal;
-    line-height: 3.2rem;
+    line-height: 3rem;
 
     text-align: left;
     letter-spacing: .04rem;
@@ -310,7 +310,7 @@ body::-webkit-scrollbar {
 .header > .main-content {
     width: 100%;
     margin: 0 auto;
-    margin-top: 40rem;
+    margin-top: 25rem;
 }
 
 
@@ -330,11 +330,7 @@ body::-webkit-scrollbar {
 
 
 
-.header > .main-content > h1.main-heading {
-    font-size: 2rem;
-    font-weight: 400;
-    line-height: 8rem;
-    text-transform: none;
+.header > .main-content > h1.main-headings {
 
     width: 100%;
     margin: 0 auto;
@@ -388,12 +384,7 @@ body::-webkit-scrollbar {
 }
 */
 
-.header > .main-content > h1 > span {
-    color: #fffffe;
-    font-size: 10rem;
-    font-weight: 900;
-    line-height: 8rem;
-}
+.header > .main-content > h1 > span {}
 
 .header > .main-content > .main-buttons > a > button {
     position: relative;
@@ -568,7 +559,7 @@ body::-webkit-scrollbar {
 
 
 #aboutme {
-    margin-top: 40rem;
+    margin-top: 25rem;
     padding-bottom: 20rem;
     /* background: #1242DE;
     background:         linear-gradient(to right, #1242DE, #fffffe); */
