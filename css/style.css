@@ -130,8 +130,8 @@ a:hover {
     font-size: 8rem;
     font-weight: 900;
     font-style: normal;
-    line-height: 8rem;
-    letter-spacing: .08rem;
+    line-height: 7rem;
+    /*    letter-spacing: .08rem;*/
 
     text-transform: uppercase;
 
@@ -152,7 +152,7 @@ a:hover {
     font-style: normal;
     line-height: 2rem;
 
-    letter-spacing: .08em;
+    /*    letter-spacing: .08em;*/
     text-transform: uppercase;
 
     color: #1242DE;
@@ -167,14 +167,14 @@ a:hover {
     line-height: 3rem;
 
     text-align: left;
-    letter-spacing: .04rem;
+    /*    letter-spacing: .04rem;*/
 
     color: #212121;
 }
 
 @media (max-width: 400px) {
     .paragraphs {
-        font-size: 1.8rem;
+        font-size: 2rem;
         line-height: 3rem;
     }
 }
@@ -335,6 +335,8 @@ body::-webkit-scrollbar {
     margin: 0 auto;
 
     color: #fffffe;
+    font-size: 9rem;
+    line-height: 8rem;
 }
 
 .header > .main-content > h1.main-headings > span {
@@ -429,14 +431,14 @@ body::-webkit-scrollbar {
 @media (max-width: 640px) {
     .header > .main-content > h1.main-headings {
         font-size: 6rem;
-        line-height: 7rem;
+        line-height: 5rem;
     }
 }
 
 @media (max-width: 400px) {
     .header > .main-content > h1.main-headings {
-        font-size: 5rem;
-        line-height: 6rem;
+        font-size: 6rem;
+        line-height: 5rem;
         /*        text-wrap: wrap;*/
     }
 }
