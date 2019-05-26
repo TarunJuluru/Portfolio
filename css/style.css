@@ -348,13 +348,12 @@ body::-webkit-scrollbar {
     -webkit-text-stroke: .2rem #fffffe;
 }
 
-/*
 .header > .main-content > .highlights {
     color: #1242DE;
     background-color: #FFEB35;
-    width: 4%;
+    width: 5.6rem;
+    padding: 0rem .4rem;
 }
-*/
 
 /*
 .header > .main-content > .main-buttons > a > button > .dot {
@@ -749,8 +748,8 @@ body::-webkit-scrollbar {
 #work > .content > .photo-links > .work-info > .links {
     padding: 2%;
 
-    color: #fffffe;
-    background: #1242de;
+    color: #1242de;
+    background: #ffeb35;
 }
 
 #work > .content > .photo-links > .work-info > .highlights {
