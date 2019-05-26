@@ -447,7 +447,7 @@ body::-webkit-scrollbar {
         /*        text-wrap: wrap;*/
     }
 
-    .header > .main-content > h1.main {
+    .header > .main-content > .highlights {
         margin-top: -16rem;
     }
 }
