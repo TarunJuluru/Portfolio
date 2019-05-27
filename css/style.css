@@ -419,7 +419,7 @@ body::-webkit-scrollbar {
 
 @media (max-width: 1600px) {
     .header > .main-content > .highlights {
-        margin-top: -4%;
+        margin-top: -8%;
     }
 }
 
