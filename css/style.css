@@ -412,8 +412,8 @@ body::-webkit-scrollbar {
 
 @media (max-width: 1800px) {
     .header > .main-content > h1.main-headings {
-        font-size: 10rem;
-        line-height: 8rem;
+        font-size: 8rem;
+        line-height: 7rem;
     }
 }
 
