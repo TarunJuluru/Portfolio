@@ -805,11 +805,11 @@ body::-webkit-scrollbar {
     #work > .content > .photo-links > .work-info {
         position: relative;
         top: -2rem;
-        left: 10%;
+        left: 0%;
 
-        max-width: 90%;
-        padding-top: 5%;
-        padding-left: 5%;
+        max-width: 100%;
+        padding-top: 0%;
+        padding-left: 8%;
 
         flex-basis: 100%;
     }
