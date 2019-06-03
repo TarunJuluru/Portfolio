@@ -37,7 +37,7 @@ body {
 
     margin: 0 auto;
 
-    background-color: #0442fb;
+    background-color: #1900FF;
 }
 
 /*reset styles*/
@@ -109,7 +109,7 @@ button:hover {
     letter-spacing: .08rem;
     text-transform: uppercase;
 
-    color: #0442fb;
+    color: #1900FF;
 }
 
 /*
@@ -136,7 +136,7 @@ a:hover {
 
     text-transform: uppercase;
 
-    color: #0442fb;
+    color: #1900FF;
 }
 
 @media (max-width: 400px) {
@@ -156,7 +156,7 @@ a:hover {
 
     text-transform: uppercase;
 
-    color: #0442fb;
+    color: #1900FF;
 }
 
 .paragraphs {
@@ -191,7 +191,7 @@ body::-webkit-scrollbar {
 
 *::selection {
     color: #fffffe;
-    background: #0442fb;
+    background: #1900FF;
 }
 
 .bar-nav {
@@ -207,7 +207,7 @@ body::-webkit-scrollbar {
 .bar-nav > .top-bar {
     display: flex;
 
-    color: #0442fb;
+    color: #1900FF;
     background-color: #fffffe;
 }
 
@@ -228,20 +228,20 @@ body::-webkit-scrollbar {
 .bar-nav > .top-bar > .logo > .links {
     display: flex;
 
-    padding: 4rem 5rem;
+    padding: 4rem 4rem;
 
     text-transform: capitalize;
 
-    color: #0442fb;
+    color: #1900FF;
 }
 
 .bar-nav > .top-bar > .menu-button > span.content {
-    padding: 4rem 5rem;
+    padding: 4rem 4rem;
 
     text-align: center;
     text-transform: capitalize;
 
-    color: #0442fb;
+    color: #1900FF;
     background-color: #fbfb04;
 
     align-self: flex-end;
@@ -265,7 +265,7 @@ body::-webkit-scrollbar {
     /*    padding-top: 2rem;*/
     /*    padding-bottom: 4rem;*/
     opacity: 1;
-    border-top: .25rem solid #0442fb;
+    border-top: .25rem solid #1900FF;
 }
 
 .bar-nav > nav ul {
@@ -288,18 +288,18 @@ body::-webkit-scrollbar {
 .bar-nav > nav ul li a.links {
     text-transform: uppercase;
 
-    color: #0442fb;
+    color: #1900FF;
 }
 
 .bar-nav > nav ul li:hover {
     transition: all .8s ease;
 
-    color: #0442fb;
+    color: #1900FF;
     background-color: #fffffe;
 }
 
 .bar-nav > nav ul li:hover a {
-    color: #0442fb;
+    color: #1900FF;
 }
 
 
@@ -343,13 +343,13 @@ body::-webkit-scrollbar {
 }
 
 .header > .main-content > h1.main-headings > span {
-    color: #0442fb;
+    color: #1900FF;
 
     -webkit-text-stroke: .2rem #fffffe;
 }
 
 .header > .main-content > .highlights {
-    color: #0442fb;
+    color: #1900FF;
     background-color: #fbfb04;
     width: 5.6rem;
     padding: 0rem .4rem;
@@ -398,7 +398,7 @@ body::-webkit-scrollbar {
 
     padding: 2rem 4rem;
 
-    color: #0442fb;
+    color: #1900FF;
     border: none;
     background-color: #fbfb04;
 }
@@ -406,7 +406,7 @@ body::-webkit-scrollbar {
 .header > .main-content > .main-buttons > a > button:hover {
     transition: all .8s ease;
 
-    color: #0442fb;
+    color: #1900FF;
     background-color: #fffffe;
 }
 
@@ -507,7 +507,7 @@ body::-webkit-scrollbar {
     .bar-nav > .top-bar > .logo > .links {
         /*        padding: 3em 4rem;*/
         color: #fffffe;
-        background-color: #0442fb;
+        background-color: #1900FF;
     }
 
     .bar-nav > nav ul {
@@ -523,7 +523,7 @@ body::-webkit-scrollbar {
         transition: all .2s ease-out;
 
         opacity: 0;
-        background: #0442fb;
+        background: #1900FF;
     }
 
     .bar-nav > nav ul li {
@@ -538,7 +538,7 @@ body::-webkit-scrollbar {
     }
 
     .bar-nav > nav ul li a.links {
-        color: #0442fb;
+        color: #1900FF;
     }
 
     .bar-nav > nav ul li:last-child {
@@ -549,10 +549,10 @@ body::-webkit-scrollbar {
     .bar-nav > .top-bar {
         display: flex;
 
-        height: 12rem;
+        height: 10rem;
 
-        color: #0442fb;
-        background: #0442fb;
+        color: #1900FF;
+        background: #1900FF;
     }
 
     .bar-nav > .top-bar > .menu-button > span.content {
@@ -562,7 +562,7 @@ body::-webkit-scrollbar {
         text-align: center;
 
         color: #fffffe;
-        background-color: #0442fb;
+        background-color: #1900FF;
 
         align-self: flex-end;
     }
@@ -572,8 +572,8 @@ body::-webkit-scrollbar {
 #aboutme {
     margin-top: 25rem;
     padding-bottom: 20rem;
-    /* background: #0442fb;
-    background:         linear-gradient(to right, #0442fb, #fffffe); */
+    /* background: #1900FF;
+    background:         linear-gradient(to right, #1900FF, #fffffe); */
 
     background-color: #fffffe;
 }
@@ -588,7 +588,7 @@ body::-webkit-scrollbar {
 #aboutme > .content > h1 {
     padding-top: 20rem;
 
-    color: #0442fb;
+    color: #1900FF;
 }
 
 #aboutme > .content > .para-photo-links {
@@ -611,7 +611,7 @@ body::-webkit-scrollbar {
     margin-right: .25rem;
     padding: 2rem 4rem;
 
-    color: #0442fb;
+    color: #1900FF;
     border: none;
     background-color: #fbfb04;
 }
@@ -620,7 +620,7 @@ body::-webkit-scrollbar {
     transition: all .8s ease;
 
     color: #fbfb04;
-    background-color: #0442fb;
+    background-color: #1900FF;
 }
 
 
@@ -671,7 +671,7 @@ body::-webkit-scrollbar {
 #work {
     padding-bottom: 20rem;
 
-    background-color: #0442fb;
+    background-color: #1900FF;
     /*    height: 100vh;*/
 }
 
@@ -684,14 +684,14 @@ body::-webkit-scrollbar {
     padding-top: 5rem;
 
     color: #fffffe;
-    /*    background-color: #0442fb;*/
+    /*    background-color: #1900FF;*/
 }
 
 #work > .content > .timeline2 {
     margin-top: 10rem;
 
     color: #fffffe;
-    /*    background-color: #0442fb;*/
+    /*    background-color: #1900FF;*/
 }
 
 #work > .content > .photo-links {
@@ -733,7 +733,7 @@ body::-webkit-scrollbar {
     padding: 2rem 4rem;
     /*    margin-bottom: 2%;*/
 
-    color: #0442fb;
+    color: #1900FF;
     border: none;
     background-color: #fbfb04;
 }
@@ -742,13 +742,13 @@ body::-webkit-scrollbar {
     transition: all .8s ease;
 
     color: #fbfb04;
-    background-color: #0442fb;
+    background-color: #1900FF;
 }
 
 #work > .content > .photo-links > .work-info > .links {
     padding: 2%;
 
-    color: #0442fb;
+    color: #1900FF;
     background: #fbfb04;
 }
 
@@ -756,7 +756,7 @@ body::-webkit-scrollbar {
     padding-top: 20%;
 
     opacity: .8;
-    color: #0442fb;
+    color: #1900FF;
 }
 
 
@@ -860,10 +860,10 @@ body::-webkit-scrollbar {
 
 #articles {
     padding-bottom: 20rem;
-    /* background: #0442fb;
-    background:         linear-gradient(to right, #0442fb, #fffffe); */
+    /* background: #1900FF;
+    background:         linear-gradient(to right, #1900FF, #fffffe); */
 
-    background-color: #0442fb;
+    background-color: #1900FF;
     /*    height: 100vh;*/
 }
 
@@ -875,7 +875,7 @@ body::-webkit-scrollbar {
 
 
 #articles > .content > .links {
-    color: #0442fb;
+    color: #1900FF;
 }
 
 
@@ -913,7 +913,7 @@ body::-webkit-scrollbar {
     margin-top: 5%;
     padding: 2rem 4rem;
 
-    color: #0442fb;
+    color: #1900FF;
     border: none;
     background-color: #fbfb04;
 }
@@ -921,7 +921,7 @@ body::-webkit-scrollbar {
 #articles > .content > .brd-dp > .brd > .article-info > a > button:hover {
     transition: all .8s ease;
 
-    color: #0442fb;
+    color: #1900FF;
     background-color: #fffffe;
 }
 
@@ -943,7 +943,7 @@ body::-webkit-scrollbar {
     margin-top: 10%;
     padding: 2rem 4rem;
 
-    color: #0442fb;
+    color: #1900FF;
     border: none;
     background-color: #fbfb04;
 }
@@ -951,7 +951,7 @@ body::-webkit-scrollbar {
 #articles > .content > .brd-dp > .dp > .article-info > a > button:hover {
     transition: all .8s ease;
 
-    color: #0442fb;
+    color: #1900FF;
     background-color: #fffffe;
 }
 
@@ -970,7 +970,7 @@ body::-webkit-scrollbar {
     text-transform: capitalize;
 
     color: #fbfb04;
-    background-color: #0442fb;
+    background-color: #1900FF;
 }
 
 @media (max-width: 1280px) {
@@ -1050,8 +1050,8 @@ body::-webkit-scrollbar {
 
 #freelancing {
     padding-bottom: 20rem;
-    /* background: #0442fb;
-    background:         linear-gradient(to right, #0442fb, #fffffe); */
+    /* background: #1900FF;
+    background:         linear-gradient(to right, #1900FF, #fffffe); */
 
     background-color: #fffffe;
 }
@@ -1063,14 +1063,14 @@ body::-webkit-scrollbar {
 
 
 #freelancing > .content > .links {
-    color: #0442fb;
+    color: #1900FF;
 }
 
 
 #freelancing > .content > h1 {
     padding-top: 20rem;
 
-    color: #0442fb;
+    color: #1900FF;
 }
 
 
@@ -1094,7 +1094,7 @@ body::-webkit-scrollbar {
 #freelancing > .content > .dpd-gd > .dpd > .highlights {
     margin-top: 1rem;
 
-    color: #0442fb;
+    color: #1900FF;
 }
 
 #freelancing > .content > .dpd-gd > .dpd > ul {
@@ -1105,14 +1105,14 @@ body::-webkit-scrollbar {
 #freelancing > .content > .dpd-gd > .dpd > ul li {
     margin-top: 1rem;
 
-    color: #0442fb;
+    color: #1900FF;
 }
 
 
 #freelancing > .content > .dpd-gd > .gd > .highlights {
     margin-top: 1rem;
 
-    color: #0442fb;
+    color: #1900FF;
 }
 
 #freelancing > .content > .dpd-gd > .gd > ul {
@@ -1123,7 +1123,7 @@ body::-webkit-scrollbar {
 #freelancing > .content > .dpd-gd > .gd > ul li {
     margin-top: 1rem;
 
-    color: #0442fb;
+    color: #1900FF;
 }
 
 
@@ -1132,7 +1132,7 @@ body::-webkit-scrollbar {
     margin-right: 4rem;
     padding: 2rem 4rem;
 
-    color: #0442fb;
+    color: #1900FF;
     border: none;
     background-color: #fbfb04;
 }
@@ -1141,7 +1141,7 @@ body::-webkit-scrollbar {
     transition: all .8s ease;
 
     color: #fbfb04;
-    background-color: #0442fb;
+    background-color: #1900FF;
 }
 
 @media (max-width: 1280px) {
@@ -1254,7 +1254,7 @@ body::-webkit-scrollbar {
 #workflow > .content > .pen-paper-figma-more > .pen-paper > ul li {
     margin-top: 1rem;
 
-    color: #0442fb;
+    color: #1900FF;
 }
 
 
@@ -1270,7 +1270,7 @@ body::-webkit-scrollbar {
 #workflow > .content > .pen-paper-figma-more > .figma > ul li {
     margin-top: 1rem;
 
-    color: #0442fb;
+    color: #1900FF;
 }
 
 
@@ -1286,7 +1286,7 @@ body::-webkit-scrollbar {
 #workflow > .content > .pen-paper-figma-more > .more > ul li {
     margin-top: 1rem;
 
-    color: #0442fb;
+    color: #1900FF;
 }
 
 
@@ -1294,7 +1294,7 @@ body::-webkit-scrollbar {
 #workflow > .content > .pen-paper-figma-more > .more > ul li.highlights {
     margin-top: 1rem;
 
-    color: #0442fb;
+    color: #1900FF;
 }
 
 @media (max-width: 1280px) {
@@ -1378,10 +1378,10 @@ body::-webkit-scrollbar {
 
 #get-in-touch {
     padding-bottom: 20rem;
-    /* background: #0442fb;
-    background:         linear-gradient(to right, #0442fb, #fffffe); */
+    /* background: #1900FF;
+    background:         linear-gradient(to right, #1900FF, #fffffe); */
 
-    background-color: #0442fb;
+    background-color: #1900FF;
 
 
 
@@ -1416,13 +1416,13 @@ body::-webkit-scrollbar {
 #get-in-touch > .content > .emails > .gmail {
     padding: 10rem 10rem 0rem 0rem;
 
-    color: #0442fb;
+    color: #1900FF;
 }
 
 
 
 #get-in-touch > .content > .emails > .gmail > .highlights {
-    color: #0442fb;
+    color: #1900FF;
 }
 
 
@@ -1481,21 +1481,21 @@ body::-webkit-scrollbar {
     font-weight: 400;
     /*    opacity: .8;*/
 
-    color: #0442fb;
+    color: #1900FF;
 }
 
 #get-in-touch > .content > form > .form-row > .form-group > textarea::placeholder {
     font-weight: 400;
     /*    opacity: .8;*/
 
-    color: #0442fb;
+    color: #1900FF;
 }
 
 #get-in-touch > .content > form > button {
     margin-top: 8%;
     padding: 2rem 4rem;
 
-    color: #0442fb;
+    color: #1900FF;
     border: none;
     background-color: #fbfb04;
 }
@@ -1503,7 +1503,7 @@ body::-webkit-scrollbar {
 #get-in-touch > .content > form > button:hover {
     transition: all .8s ease;
 
-    color: #0442fb;
+    color: #1900FF;
     background-color: #fffffe;
 }
 
@@ -1559,7 +1559,7 @@ body::-webkit-scrollbar {
     margin-right: .25rem;
     padding: 2rem 4rem;
 
-    color: #0442fb;
+    color: #1900FF;
     border: none;
     background-color: #fbfb04;
 }
@@ -1567,7 +1567,7 @@ body::-webkit-scrollbar {
 #get-in-touch > .content > .social-media ul > li > a.links:hover {
     transition: all .8s ease;
 
-    color: #0442fb;
+    color: #1900FF;
     background-color: #fffffe;
 }
 
@@ -1641,7 +1641,7 @@ body::-webkit-scrollbar {
 
     padding: 2rem 4rem;
 
-    color: #0442fb;
+    color: #1900FF;
     border: none;
     background-color: #fbfb04;
 }
@@ -1649,7 +1649,7 @@ body::-webkit-scrollbar {
 #thank-you > a > button:hover {
     transition: all .8s ease;
 
-    color: #0442fb;
+    color: #1900FF;
     background-color: #fffffe;
 }
 
@@ -1700,7 +1700,7 @@ body::-webkit-scrollbar {
 
     text-decoration: none;
 
-    color: #0442fb;
+    color: #1900FF;
     border: none;
     background-color: #fbfb04;
 }
@@ -1708,7 +1708,7 @@ body::-webkit-scrollbar {
 .main-content > .back > a:hover {
     transition: all .8s ease;
 
-    color: #0442fb;
+    color: #1900FF;
     background-color: #fffffe;
 }
 
@@ -2001,7 +2001,7 @@ body::-webkit-scrollbar {
 #branding > .content > .branding-section > blockquote > p {
     font-style: italic;
 
-    color: #0442fb;
+    color: #1900FF;
 }
 
 
