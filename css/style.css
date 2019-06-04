@@ -1,14 +1,16 @@
+/*
 @import url('https://rsms.me/inter/inter.css');
 
 html {
-    font-family: 'inter', sans-serif;
+    font-family: 'Poppins', sans-serif;
 }
 
 @supports (font-variation-settings: normal) {
     html {
-        font-family: 'inter', sans-serif;
+        font-family: 'Poppins', sans-serif;
     }
 }
+*/
 
 
 
@@ -95,9 +97,9 @@ button:hover {
 /*default typography styles*/
 
 .links {
-    font-family: 'inter', sans-serif;
-    font-size: 1.4rem;
-    font-weight: 700;
+    font-family: 'Poppins', sans-serif;
+    font-size: 1.6rem;
+    font-weight: 600;
     font-style: normal;
     line-height: 2rem;
 
@@ -124,11 +126,11 @@ a:hover {
 */
 
 .main-headings {
-    font-family: 'inter', sans-serif;
-    font-size: 8rem;
+    font-family: 'Poppins', sans-serif;
+    font-size: 10rem;
     font-weight: 900;
     font-style: normal;
-    line-height: 7rem;
+    line-height: 8rem;
     /*    letter-spacing: .08rem;*/
 
     text-transform: uppercase;
@@ -144,9 +146,9 @@ a:hover {
 }
 
 .highlights {
-    font-family: 'inter', sans-serif;
-    font-size: 1.4rem;
-    font-weight: 700;
+    font-family: 'Poppins', sans-serif;
+    font-size: 1.6rem;
+    font-weight: 600;
     font-style: normal;
     line-height: 2rem;
     /*    letter-spacing: .08em;*/
@@ -158,9 +160,9 @@ a:hover {
 
 .paragraphs {
     /*    opacity: .8;*/
-    font-family: 'inter', sans-serif;
-    font-size: 2rem;
-    font-weight: 300;
+    font-family: 'Poppins', sans-serif;
+    font-size: 1.8rem;
+    font-weight: 400;
     font-style: normal;
     line-height: 3rem;
 
@@ -348,8 +350,9 @@ body::-webkit-scrollbar {
 .header > .main-content > .highlights {
     color: #2D2DFC;
     background-color: #FFF933;
-    width: 5rem;
+    width: 5.4rem;
     padding: 0rem .4rem;
+    margin-left: .4rem;
 }
 
 /*
@@ -953,7 +956,7 @@ body::-webkit-scrollbar {
 }
 
 #articles > .content > .brd-dp > .dp > .article-info > .photo-links > .tag {
-    font-family: 'inter', sans-serif;
+    font-family: 'Poppins', sans-serif;
     font-size: 1.4rem;
     font-weight: 700;
     letter-spacing: 0.08rem;
@@ -1446,7 +1449,7 @@ body::-webkit-scrollbar {
 
 
 #get-in-touch > .content > form > .form-row > .form-group > input {
-    font-family: 'inter', sans-serif;
+    font-family: 'Poppins', sans-serif;
 
     width: 100%;
     margin-bottom: 5rem;
@@ -1461,7 +1464,7 @@ body::-webkit-scrollbar {
 
 
 #get-in-touch > .content > form > .form-row > .form-group > textarea {
-    font-family: 'inter', sans-serif;
+    font-family: 'Poppins', sans-serif;
 
     width: 100%;
     padding: 2rem 4rem;
