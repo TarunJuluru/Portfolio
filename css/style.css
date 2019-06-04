@@ -1,4 +1,3 @@
-/*
 @import url('https://rsms.me/inter/inter.css');
 
 html {
@@ -10,7 +9,6 @@ html {
         font-family: 'inter', sans-serif;
     }
 }
-*/
 
 
 
@@ -97,9 +95,8 @@ button:hover {
 /*default typography styles*/
 
 .links {
-    font-family: 'Work Sans',
-        sans-serif;
-    font-size: 1.6rem;
+    font-family: 'inter', sans-serif;
+    font-size: 1.4rem;
     font-weight: 700;
     font-style: normal;
     line-height: 2rem;
@@ -127,7 +124,7 @@ a:hover {
 */
 
 .main-headings {
-    font-family: 'Work Sans', sans-serif;
+    font-family: 'inter', sans-serif;
     font-size: 8rem;
     font-weight: 900;
     font-style: normal;
@@ -147,8 +144,8 @@ a:hover {
 }
 
 .highlights {
-    font-family: 'Work Sans', sans-serif;
-    font-size: 1.6rem;
+    font-family: 'inter', sans-serif;
+    font-size: 1.4rem;
     font-weight: 700;
     font-style: normal;
     line-height: 2rem;
@@ -161,9 +158,9 @@ a:hover {
 
 .paragraphs {
     /*    opacity: .8;*/
-    font-family: 'Work Sans', sans-serif;
+    font-family: 'inter', sans-serif;
     font-size: 2rem;
-    font-weight: 400;
+    font-weight: 300;
     font-style: normal;
     line-height: 3rem;
 
@@ -292,7 +289,7 @@ body::-webkit-scrollbar {
 }
 
 .bar-nav > nav ul li:hover {
-    transition: all .8s ease;
+    transition: all .4s ease;
 
     color: #2D2DFC;
     background-color: #fffffe;
@@ -351,7 +348,7 @@ body::-webkit-scrollbar {
 .header > .main-content > .highlights {
     color: #2D2DFC;
     background-color: #FFF933;
-    width: 5.6rem;
+    width: 5rem;
     padding: 0rem .4rem;
 }
 
@@ -404,7 +401,7 @@ body::-webkit-scrollbar {
 }
 
 .header > .main-content > .main-buttons > a > button:hover {
-    transition: all .8s ease;
+    transition: all .4s ease;
 
     color: #2D2DFC;
     background-color: #fffffe;
@@ -617,7 +614,7 @@ body::-webkit-scrollbar {
 }
 
 #aboutme > .content > .para-photo-links > .photo-links > .aboutme-buttons > a > button:hover {
-    transition: all .8s ease;
+    transition: all .4s ease;
 
     color: #FFF933;
     background-color: #2D2DFC;
@@ -739,7 +736,7 @@ body::-webkit-scrollbar {
 }
 
 #work > .content > .photo-links > .work-info > a > button:hover {
-    transition: all .8s ease;
+    transition: all .4s ease;
 
     color: #FFF933;
     background-color: #2D2DFC;
@@ -919,7 +916,7 @@ body::-webkit-scrollbar {
 }
 
 #articles > .content > .brd-dp > .brd > .article-info > a > button:hover {
-    transition: all .8s ease;
+    transition: all .4s ease;
 
     color: #2D2DFC;
     background-color: #fffffe;
@@ -949,27 +946,27 @@ body::-webkit-scrollbar {
 }
 
 #articles > .content > .brd-dp > .dp > .article-info > a > button:hover {
-    transition: all .8s ease;
+    transition: all .4s ease;
 
     color: #2D2DFC;
     background-color: #fffffe;
 }
 
 #articles > .content > .brd-dp > .dp > .article-info > .photo-links > .tag {
-    font-family: 'Work Sans', sans-serif;
-    font-size: 1.6rem;
-    font-weight: 400;
+    font-family: 'inter', sans-serif;
+    font-size: 1.4rem;
+    font-weight: 700;
     letter-spacing: 0.08rem;
 
     position: absolute;
     z-index: 2;
     top: 0;
 
-    padding: 3rem;
+    padding: 2rem;
 
     text-transform: capitalize;
 
-    color: #FFF933;
+    color: #fffffe;
     background-color: #2D2DFC;
 }
 
@@ -1138,7 +1135,7 @@ body::-webkit-scrollbar {
 }
 
 #freelancing > .content > a > button:hover {
-    transition: all .8s ease;
+    transition: all .4s ease;
 
     color: #FFF933;
     background-color: #2D2DFC;
@@ -1449,7 +1446,7 @@ body::-webkit-scrollbar {
 
 
 #get-in-touch > .content > form > .form-row > .form-group > input {
-    font-family: 'Work Sans', sans-serif;
+    font-family: 'inter', sans-serif;
 
     width: 100%;
     margin-bottom: 5rem;
@@ -1464,7 +1461,7 @@ body::-webkit-scrollbar {
 
 
 #get-in-touch > .content > form > .form-row > .form-group > textarea {
-    font-family: 'Work Sans', sans-serif;
+    font-family: 'inter', sans-serif;
 
     width: 100%;
     padding: 2rem 4rem;
@@ -1501,7 +1498,7 @@ body::-webkit-scrollbar {
 }
 
 #get-in-touch > .content > form > button:hover {
-    transition: all .8s ease;
+    transition: all .4s ease;
 
     color: #2D2DFC;
     background-color: #fffffe;
@@ -1565,7 +1562,7 @@ body::-webkit-scrollbar {
 }
 
 #get-in-touch > .content > .social-media ul > li > a.links:hover {
-    transition: all .8s ease;
+    transition: all .4s ease;
 
     color: #2D2DFC;
     background-color: #fffffe;
@@ -1647,7 +1644,7 @@ body::-webkit-scrollbar {
 }
 
 #thank-you > a > button:hover {
-    transition: all .8s ease;
+    transition: all .4s ease;
 
     color: #2D2DFC;
     background-color: #fffffe;
@@ -1706,7 +1703,7 @@ body::-webkit-scrollbar {
 }
 
 .main-content > .back > a:hover {
-    transition: all .8s ease;
+    transition: all .4s ease;
 
     color: #2D2DFC;
     background-color: #fffffe;
