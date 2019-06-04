@@ -37,7 +37,7 @@ body {
 
     margin: 0 auto;
 
-    background-color: #1900FF;
+    background-color: #2D2DFC;
 }
 
 /*reset styles*/
@@ -109,7 +109,7 @@ button:hover {
     letter-spacing: .08rem;
     text-transform: uppercase;
 
-    color: #1900FF;
+    color: #2D2DFC;
 }
 
 /*
@@ -136,7 +136,7 @@ a:hover {
 
     text-transform: uppercase;
 
-    color: #1900FF;
+    color: #2D2DFC;
 }
 
 @media (max-width: 400px) {
@@ -156,7 +156,7 @@ a:hover {
 
     text-transform: uppercase;
 
-    color: #1900FF;
+    color: #2D2DFC;
 }
 
 .paragraphs {
@@ -191,7 +191,7 @@ body::-webkit-scrollbar {
 
 *::selection {
     color: #fffffe;
-    background: #1900FF;
+    background: #2D2DFC;
 }
 
 .bar-nav {
@@ -207,7 +207,7 @@ body::-webkit-scrollbar {
 .bar-nav > .top-bar {
     display: flex;
 
-    color: #1900FF;
+    color: #2D2DFC;
     background-color: #fffffe;
 }
 
@@ -232,7 +232,7 @@ body::-webkit-scrollbar {
 
     text-transform: capitalize;
 
-    color: #1900FF;
+    color: #2D2DFC;
 }
 
 .bar-nav > .top-bar > .menu-button > span.content {
@@ -241,8 +241,8 @@ body::-webkit-scrollbar {
     text-align: center;
     text-transform: capitalize;
 
-    color: #1900FF;
-    background-color: #fbfb04;
+    color: #2D2DFC;
+    background-color: #FFF933;
 
     align-self: flex-end;
 }
@@ -258,14 +258,14 @@ body::-webkit-scrollbar {
     transition: all .4s ease;
 
     opacity: 0;
-    background: #fbfb04;
+    background: #FFF933;
 }
 
 .bar-nav > .nav-toggle {
     /*    padding-top: 2rem;*/
     /*    padding-bottom: 4rem;*/
     opacity: 1;
-    border-top: .25rem solid #1900FF;
+    border-top: .25rem solid #2D2DFC;
 }
 
 .bar-nav > nav ul {
@@ -279,7 +279,7 @@ body::-webkit-scrollbar {
 
     text-align: center;
 
-    background-color: #fbfb04;
+    background-color: #FFF933;
 
     flex-grow: 1;
 }
@@ -288,18 +288,18 @@ body::-webkit-scrollbar {
 .bar-nav > nav ul li a.links {
     text-transform: uppercase;
 
-    color: #1900FF;
+    color: #2D2DFC;
 }
 
 .bar-nav > nav ul li:hover {
     transition: all .8s ease;
 
-    color: #1900FF;
+    color: #2D2DFC;
     background-color: #fffffe;
 }
 
 .bar-nav > nav ul li:hover a {
-    color: #1900FF;
+    color: #2D2DFC;
 }
 
 
@@ -343,14 +343,14 @@ body::-webkit-scrollbar {
 }
 
 .header > .main-content > h1.main-headings > span {
-    color: #1900FF;
+    color: #2D2DFC;
 
     -webkit-text-stroke: .2rem #fffffe;
 }
 
 .header > .main-content > .highlights {
-    color: #1900FF;
-    background-color: #fbfb04;
+    color: #2D2DFC;
+    background-color: #FFF933;
     width: 5.6rem;
     padding: 0rem .4rem;
 }
@@ -398,15 +398,15 @@ body::-webkit-scrollbar {
 
     padding: 2rem 4rem;
 
-    color: #1900FF;
+    color: #2D2DFC;
     border: none;
-    background-color: #fbfb04;
+    background-color: #FFF933;
 }
 
 .header > .main-content > .main-buttons > a > button:hover {
     transition: all .8s ease;
 
-    color: #1900FF;
+    color: #2D2DFC;
     background-color: #fffffe;
 }
 
@@ -507,7 +507,7 @@ body::-webkit-scrollbar {
     .bar-nav > .top-bar > .logo > .links {
         /*        padding: 3em 4rem;*/
         color: #fffffe;
-        background-color: #1900FF;
+        background-color: #2D2DFC;
     }
 
     .bar-nav > nav ul {
@@ -523,7 +523,7 @@ body::-webkit-scrollbar {
         transition: all .2s ease-out;
 
         opacity: 0;
-        background: #1900FF;
+        background: #2D2DFC;
     }
 
     .bar-nav > nav ul li {
@@ -532,13 +532,13 @@ body::-webkit-scrollbar {
 
         text-align: left;
 
-        background: #fbfb04;
+        background: #FFF933;
 
         flex-basis: 100%;
     }
 
     .bar-nav > nav ul li a.links {
-        color: #1900FF;
+        color: #2D2DFC;
     }
 
     .bar-nav > nav ul li:last-child {
@@ -551,8 +551,8 @@ body::-webkit-scrollbar {
 
         height: 10rem;
 
-        color: #1900FF;
-        background: #1900FF;
+        color: #2D2DFC;
+        background: #2D2DFC;
     }
 
     .bar-nav > .top-bar > .menu-button > span.content {
@@ -562,7 +562,7 @@ body::-webkit-scrollbar {
         text-align: center;
 
         color: #fffffe;
-        background-color: #1900FF;
+        background-color: #2D2DFC;
 
         align-self: flex-end;
     }
@@ -572,8 +572,8 @@ body::-webkit-scrollbar {
 #aboutme {
     margin-top: 25rem;
     padding-bottom: 20rem;
-    /* background: #1900FF;
-    background:         linear-gradient(to right, #1900FF, #fffffe); */
+    /* background: #2D2DFC;
+    background:         linear-gradient(to right, #2D2DFC, #fffffe); */
 
     background-color: #fffffe;
 }
@@ -588,7 +588,7 @@ body::-webkit-scrollbar {
 #aboutme > .content > h1 {
     padding-top: 20rem;
 
-    color: #1900FF;
+    color: #2D2DFC;
 }
 
 #aboutme > .content > .para-photo-links {
@@ -611,16 +611,16 @@ body::-webkit-scrollbar {
     margin-right: .25rem;
     padding: 2rem 4rem;
 
-    color: #1900FF;
+    color: #2D2DFC;
     border: none;
-    background-color: #fbfb04;
+    background-color: #FFF933;
 }
 
 #aboutme > .content > .para-photo-links > .photo-links > .aboutme-buttons > a > button:hover {
     transition: all .8s ease;
 
-    color: #fbfb04;
-    background-color: #1900FF;
+    color: #FFF933;
+    background-color: #2D2DFC;
 }
 
 
@@ -671,7 +671,7 @@ body::-webkit-scrollbar {
 #work {
     padding-bottom: 20rem;
 
-    background-color: #1900FF;
+    background-color: #2D2DFC;
     /*    height: 100vh;*/
 }
 
@@ -684,14 +684,14 @@ body::-webkit-scrollbar {
     padding-top: 5rem;
 
     color: #fffffe;
-    /*    background-color: #1900FF;*/
+    /*    background-color: #2D2DFC;*/
 }
 
 #work > .content > .timeline2 {
     margin-top: 10rem;
 
     color: #fffffe;
-    /*    background-color: #1900FF;*/
+    /*    background-color: #2D2DFC;*/
 }
 
 #work > .content > .photo-links {
@@ -733,30 +733,30 @@ body::-webkit-scrollbar {
     padding: 2rem 4rem;
     /*    margin-bottom: 2%;*/
 
-    color: #1900FF;
+    color: #2D2DFC;
     border: none;
-    background-color: #fbfb04;
+    background-color: #FFF933;
 }
 
 #work > .content > .photo-links > .work-info > a > button:hover {
     transition: all .8s ease;
 
-    color: #fbfb04;
-    background-color: #1900FF;
+    color: #FFF933;
+    background-color: #2D2DFC;
 }
 
 #work > .content > .photo-links > .work-info > .links {
     padding: 2%;
 
-    color: #1900FF;
-    background: #fbfb04;
+    color: #2D2DFC;
+    background: #FFF933;
 }
 
 #work > .content > .photo-links > .work-info > .highlights {
     padding-top: 20%;
 
     opacity: .8;
-    color: #1900FF;
+    color: #2D2DFC;
 }
 
 
@@ -860,10 +860,10 @@ body::-webkit-scrollbar {
 
 #articles {
     padding-bottom: 20rem;
-    /* background: #1900FF;
-    background:         linear-gradient(to right, #1900FF, #fffffe); */
+    /* background: #2D2DFC;
+    background:         linear-gradient(to right, #2D2DFC, #fffffe); */
 
-    background-color: #1900FF;
+    background-color: #2D2DFC;
     /*    height: 100vh;*/
 }
 
@@ -875,7 +875,7 @@ body::-webkit-scrollbar {
 
 
 #articles > .content > .links {
-    color: #1900FF;
+    color: #2D2DFC;
 }
 
 
@@ -913,15 +913,15 @@ body::-webkit-scrollbar {
     margin-top: 5%;
     padding: 2rem 4rem;
 
-    color: #1900FF;
+    color: #2D2DFC;
     border: none;
-    background-color: #fbfb04;
+    background-color: #FFF933;
 }
 
 #articles > .content > .brd-dp > .brd > .article-info > a > button:hover {
     transition: all .8s ease;
 
-    color: #1900FF;
+    color: #2D2DFC;
     background-color: #fffffe;
 }
 
@@ -943,15 +943,15 @@ body::-webkit-scrollbar {
     margin-top: 10%;
     padding: 2rem 4rem;
 
-    color: #1900FF;
+    color: #2D2DFC;
     border: none;
-    background-color: #fbfb04;
+    background-color: #FFF933;
 }
 
 #articles > .content > .brd-dp > .dp > .article-info > a > button:hover {
     transition: all .8s ease;
 
-    color: #1900FF;
+    color: #2D2DFC;
     background-color: #fffffe;
 }
 
@@ -969,8 +969,8 @@ body::-webkit-scrollbar {
 
     text-transform: capitalize;
 
-    color: #fbfb04;
-    background-color: #1900FF;
+    color: #FFF933;
+    background-color: #2D2DFC;
 }
 
 @media (max-width: 1280px) {
@@ -1050,8 +1050,8 @@ body::-webkit-scrollbar {
 
 #freelancing {
     padding-bottom: 20rem;
-    /* background: #1900FF;
-    background:         linear-gradient(to right, #1900FF, #fffffe); */
+    /* background: #2D2DFC;
+    background:         linear-gradient(to right, #2D2DFC, #fffffe); */
 
     background-color: #fffffe;
 }
@@ -1063,14 +1063,14 @@ body::-webkit-scrollbar {
 
 
 #freelancing > .content > .links {
-    color: #1900FF;
+    color: #2D2DFC;
 }
 
 
 #freelancing > .content > h1 {
     padding-top: 20rem;
 
-    color: #1900FF;
+    color: #2D2DFC;
 }
 
 
@@ -1094,7 +1094,7 @@ body::-webkit-scrollbar {
 #freelancing > .content > .dpd-gd > .dpd > .highlights {
     margin-top: 1rem;
 
-    color: #1900FF;
+    color: #2D2DFC;
 }
 
 #freelancing > .content > .dpd-gd > .dpd > ul {
@@ -1105,14 +1105,14 @@ body::-webkit-scrollbar {
 #freelancing > .content > .dpd-gd > .dpd > ul li {
     margin-top: 1rem;
 
-    color: #1900FF;
+    color: #2D2DFC;
 }
 
 
 #freelancing > .content > .dpd-gd > .gd > .highlights {
     margin-top: 1rem;
 
-    color: #1900FF;
+    color: #2D2DFC;
 }
 
 #freelancing > .content > .dpd-gd > .gd > ul {
@@ -1123,7 +1123,7 @@ body::-webkit-scrollbar {
 #freelancing > .content > .dpd-gd > .gd > ul li {
     margin-top: 1rem;
 
-    color: #1900FF;
+    color: #2D2DFC;
 }
 
 
@@ -1132,16 +1132,16 @@ body::-webkit-scrollbar {
     margin-right: 4rem;
     padding: 2rem 4rem;
 
-    color: #1900FF;
+    color: #2D2DFC;
     border: none;
-    background-color: #fbfb04;
+    background-color: #FFF933;
 }
 
 #freelancing > .content > a > button:hover {
     transition: all .8s ease;
 
-    color: #fbfb04;
-    background-color: #1900FF;
+    color: #FFF933;
+    background-color: #2D2DFC;
 }
 
 @media (max-width: 1280px) {
@@ -1254,7 +1254,7 @@ body::-webkit-scrollbar {
 #workflow > .content > .pen-paper-figma-more > .pen-paper > ul li {
     margin-top: 1rem;
 
-    color: #1900FF;
+    color: #2D2DFC;
 }
 
 
@@ -1270,7 +1270,7 @@ body::-webkit-scrollbar {
 #workflow > .content > .pen-paper-figma-more > .figma > ul li {
     margin-top: 1rem;
 
-    color: #1900FF;
+    color: #2D2DFC;
 }
 
 
@@ -1286,7 +1286,7 @@ body::-webkit-scrollbar {
 #workflow > .content > .pen-paper-figma-more > .more > ul li {
     margin-top: 1rem;
 
-    color: #1900FF;
+    color: #2D2DFC;
 }
 
 
@@ -1294,7 +1294,7 @@ body::-webkit-scrollbar {
 #workflow > .content > .pen-paper-figma-more > .more > ul li.highlights {
     margin-top: 1rem;
 
-    color: #1900FF;
+    color: #2D2DFC;
 }
 
 @media (max-width: 1280px) {
@@ -1378,10 +1378,10 @@ body::-webkit-scrollbar {
 
 #get-in-touch {
     padding-bottom: 20rem;
-    /* background: #1900FF;
-    background:         linear-gradient(to right, #1900FF, #fffffe); */
+    /* background: #2D2DFC;
+    background:         linear-gradient(to right, #2D2DFC, #fffffe); */
 
-    background-color: #1900FF;
+    background-color: #2D2DFC;
 
 
 
@@ -1416,13 +1416,13 @@ body::-webkit-scrollbar {
 #get-in-touch > .content > .emails > .gmail {
     padding: 10rem 10rem 0rem 0rem;
 
-    color: #1900FF;
+    color: #2D2DFC;
 }
 
 
 
 #get-in-touch > .content > .emails > .gmail > .highlights {
-    color: #1900FF;
+    color: #2D2DFC;
 }
 
 
@@ -1481,29 +1481,29 @@ body::-webkit-scrollbar {
     font-weight: 400;
     /*    opacity: .8;*/
 
-    color: #1900FF;
+    color: #2D2DFC;
 }
 
 #get-in-touch > .content > form > .form-row > .form-group > textarea::placeholder {
     font-weight: 400;
     /*    opacity: .8;*/
 
-    color: #1900FF;
+    color: #2D2DFC;
 }
 
 #get-in-touch > .content > form > button {
     margin-top: 8%;
     padding: 2rem 4rem;
 
-    color: #1900FF;
+    color: #2D2DFC;
     border: none;
-    background-color: #fbfb04;
+    background-color: #FFF933;
 }
 
 #get-in-touch > .content > form > button:hover {
     transition: all .8s ease;
 
-    color: #1900FF;
+    color: #2D2DFC;
     background-color: #fffffe;
 }
 
@@ -1559,15 +1559,15 @@ body::-webkit-scrollbar {
     margin-right: .25rem;
     padding: 2rem 4rem;
 
-    color: #1900FF;
+    color: #2D2DFC;
     border: none;
-    background-color: #fbfb04;
+    background-color: #FFF933;
 }
 
 #get-in-touch > .content > .social-media ul > li > a.links:hover {
     transition: all .8s ease;
 
-    color: #1900FF;
+    color: #2D2DFC;
     background-color: #fffffe;
 }
 
@@ -1641,15 +1641,15 @@ body::-webkit-scrollbar {
 
     padding: 2rem 4rem;
 
-    color: #1900FF;
+    color: #2D2DFC;
     border: none;
-    background-color: #fbfb04;
+    background-color: #FFF933;
 }
 
 #thank-you > a > button:hover {
     transition: all .8s ease;
 
-    color: #1900FF;
+    color: #2D2DFC;
     background-color: #fffffe;
 }
 
@@ -1700,15 +1700,15 @@ body::-webkit-scrollbar {
 
     text-decoration: none;
 
-    color: #1900FF;
+    color: #2D2DFC;
     border: none;
-    background-color: #fbfb04;
+    background-color: #FFF933;
 }
 
 .main-content > .back > a:hover {
     transition: all .8s ease;
 
-    color: #1900FF;
+    color: #2D2DFC;
     background-color: #fffffe;
 }
 
@@ -1995,13 +1995,13 @@ body::-webkit-scrollbar {
     margin-bottom: 5rem;
     padding: 5rem;
 
-    background-color: #fbfb04;
+    background-color: #FFF933;
 }
 
 #branding > .content > .branding-section > blockquote > p {
     font-style: italic;
 
-    color: #1900FF;
+    color: #2D2DFC;
 }
 
 
