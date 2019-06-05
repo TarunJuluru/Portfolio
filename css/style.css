@@ -531,7 +531,7 @@ body::-webkit-scrollbar {
 
     .bar-nav > nav ul li {
         padding: 2rem 0;
-        padding-left: 4rem;
+        padding-left: 5rem;
 
 
 
@@ -819,8 +819,9 @@ body::-webkit-scrollbar {
 
     #work > .content > .photo-links > .work-info > .links {
         padding: 2rem;
-        background-color: #fffffe;
-        color: #2D2DFC;
+        background-color: #2D2DFC;
+        color: #fffffe;
+        margin-left: 4%;
     }
 
     #work > .content > .photo-links > .work-info > .highlights {
