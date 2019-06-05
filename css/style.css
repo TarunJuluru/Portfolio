@@ -144,11 +144,13 @@ a:hover {
         line-height: 4rem;
     }
 
+    /*
     button {
         width: 100%;
-        text-align: center;
+        
         border: none;
     }
+*/
 }
 
 .highlights {
@@ -235,7 +237,7 @@ body::-webkit-scrollbar {
 .bar-nav > .top-bar > .menu-button > span.content {
     padding: 4rem 4rem;
 
-    text-align: center;
+
     text-transform: capitalize;
 
     color: #2D2DFC;
@@ -275,7 +277,7 @@ body::-webkit-scrollbar {
 .bar-nav > nav ul li {
     padding: 2rem 2rem;
 
-    text-align: center;
+
 
     background-color: #2D2DFC;
 
@@ -560,8 +562,6 @@ body::-webkit-scrollbar {
 
     .bar-nav > .top-bar > .menu-button > span.content {
         position: relative;
-
-        text-align: center;
 
         color: #fffffe;
         background-color: #2D2DFC;
