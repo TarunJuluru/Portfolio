@@ -274,7 +274,7 @@ body::-webkit-scrollbar {
 
 .bar-nav > nav ul li {
     padding: 2rem 2rem;
-
+    text-align: center;
 
 
     background-color: #2D2DFC;
