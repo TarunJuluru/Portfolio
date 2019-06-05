@@ -143,6 +143,12 @@ a:hover {
         font-size: 5rem;
         line-height: 4rem;
     }
+
+    button {
+        width: 100%;
+        text-align: center;
+        border: none;
+    }
 }
 
 .highlights {
@@ -458,10 +464,6 @@ body::-webkit-scrollbar {
     margin-top: 5rem;
 }
 
-.main-content > .main-buttons > a > button {
-    border: none;
-}
-
 @media (max-width: 1280px) {
     .bar-nav {
         width: 80%;
@@ -540,7 +542,7 @@ body::-webkit-scrollbar {
     }
 
     .bar-nav > nav ul li a.links {
-        color: #2D2DFC;
+        color: #fffffe;
     }
 
     .bar-nav > nav ul li:last-child {
@@ -815,10 +817,11 @@ body::-webkit-scrollbar {
         padding-top: 0%;
 
         flex-basis: 100%;
+        background-color: #fffffe;
     }
 
     #work > .content > .photo-links > .work-info > .links {
-        padding: .2rem;
+        padding: 2rem;
     }
 
     #work > .content > .photo-links > .work-info > .highlights {
@@ -850,6 +853,7 @@ body::-webkit-scrollbar {
 }
 
 @media (max-width: 400px) {
+
     #work > .content > .photo-links > .links {
         font-size: 2rem;
         font-weight: 600;
@@ -858,7 +862,11 @@ body::-webkit-scrollbar {
         position: absolute;
         bottom: 2%;
         left: -4%;
-        width: 100%;
+    }
+
+    #work > .content > .photo-links > .work-info > .highlights {
+        color: #2D2DFC;
+        padding-left: 4%;
     }
 }
 
