@@ -144,13 +144,11 @@ a:hover {
         line-height: 4rem;
     }
 
-    /*
     button {
         width: 100%;
-        
+        text-align: center;
         border: none;
     }
-*/
 }
 
 .highlights {
@@ -1718,7 +1716,7 @@ body::-webkit-scrollbar {
     padding-bottom: 10rem;
 }
 
-.main-content > .back > a {
+.main-content > .back > a > button {
     padding: 2rem 4rem;
 
     text-decoration: none;
@@ -1729,7 +1727,7 @@ body::-webkit-scrollbar {
     border: .2rem solid #fffffe;
 }
 
-.main-content > .back > a:hover {
+.main-content > .back > a > button:hover {
     transition: all .4s ease;
 
     color: #2D2DFC;
