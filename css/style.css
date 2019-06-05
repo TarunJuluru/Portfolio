@@ -99,7 +99,7 @@ button:hover {
 .links {
     font-family: 'Poppins', sans-serif;
     font-size: 1.6rem;
-    font-weight: 500;
+    font-weight: 600;
     font-style: normal;
     line-height: 2rem;
 
@@ -109,13 +109,6 @@ button:hover {
     text-transform: uppercase;
 
     color: #2D2DFC;
-}
-
-@media (max-width: 400px) {
-    .links {
-        width: 100%;
-        text-align: center;
-    }
 }
 
 /*
@@ -147,15 +140,15 @@ a:hover {
 
 @media (max-width: 400px) {
     .main-headings {
-        font-size: 6rem;
-        line-height: 5rem;
+        font-size: 5rem;
+        line-height: 4rem;
     }
 }
 
 .highlights {
     font-family: 'Poppins', sans-serif;
     font-size: 1.6rem;
-    font-weight: 500;
+    font-weight: 600;
     font-style: normal;
     line-height: 2rem;
     /*    letter-spacing: .08em;*/
@@ -166,7 +159,7 @@ a:hover {
 }
 
 .paragraphs {
-    /*    opacity: .8;*/
+    opacity: .8;
     font-family: 'Poppins', sans-serif;
     font-size: 1.6rem;
     font-weight: 400;
@@ -174,16 +167,9 @@ a:hover {
     line-height: 3rem;
 
     text-align: left;
-    /*    letter-spacing: .04rem;*/
+    letter-spacing: .04rem;
 
     color: #1C1C1B;
-}
-
-@media (max-width: 400px) {
-    .paragraphs {
-        font-size: 2rem;
-        line-height: 3rem;
-    }
 }
 
 
@@ -573,7 +559,6 @@ body::-webkit-scrollbar {
 
     .bar-nav > .top-bar > .menu-button > span.content {
         position: relative;
-        /*        padding: 4rem 5rem 3rem 5rem;*/
 
         text-align: center;
 
@@ -804,7 +789,7 @@ body::-webkit-scrollbar {
 
     text-transform: capitalize;
 
-    opacity: .8;
+    opacity: .4;
     color: #fffffe;
 }
 
@@ -828,7 +813,6 @@ body::-webkit-scrollbar {
 
         max-width: 100%;
         padding-top: 0%;
-        padding-left: 8%;
 
         flex-basis: 100%;
     }
@@ -874,6 +858,7 @@ body::-webkit-scrollbar {
         position: absolute;
         bottom: 2%;
         left: -4%;
+        width: 100%;
     }
 }
 
@@ -1572,7 +1557,7 @@ body::-webkit-scrollbar {
 }
 
 #get-in-touch > .content > .social-media > ul > li {
-    margin-top: 10%;
+    margin-top: 7rem;
 }
 
 
@@ -1623,8 +1608,6 @@ body::-webkit-scrollbar {
     #get-in-touch > .content > .social-media > ul > li > a.links {
         display: flex;
         flex-direction: column;
-        width: 100%;
-        text-align: center;
     }
 
     #get-in-touch > .content > .social-media > ul > li {
