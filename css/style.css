@@ -819,8 +819,8 @@ body::-webkit-scrollbar {
 
     #work > .content > .photo-links > .work-info > .links {
         padding: 2rem;
-        background-color: #2D2DFC;
-        color: #fffffe;
+        background-color: #fffffe;
+        color: #2D2DFC;
     }
 
     #work > .content > .photo-links > .work-info > .highlights {
@@ -865,7 +865,6 @@ body::-webkit-scrollbar {
         position: absolute;
         bottom: 2%;
         left: -4%;
-        background: #2D2DFC;
     }
 
     #work > .content > .photo-links > .work-info > .highlights {
