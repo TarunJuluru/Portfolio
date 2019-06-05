@@ -103,7 +103,7 @@ button:hover {
     font-style: normal;
     line-height: 2rem;
 
-    text-align: left;
+
     text-decoration: none;
     letter-spacing: .08rem;
     text-transform: uppercase;
@@ -172,7 +172,6 @@ a:hover {
     font-style: normal;
     line-height: 3rem;
 
-    text-align: left;
     letter-spacing: .04rem;
 
     color: #1C1C1B;
@@ -534,7 +533,7 @@ body::-webkit-scrollbar {
         padding: 2rem 0;
         padding-left: 4rem;
 
-        text-align: left;
+
 
         background: #2D2DFC;
 
