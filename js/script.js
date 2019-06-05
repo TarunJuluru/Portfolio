@@ -51,11 +51,11 @@ $(document).ready(function() {
     });
 
 
-//    var string = "Working on my personal brand, stay tuned";
-//    var str = string.split("");
-//    var el = document.getElementById('str');
-//    (function animate() {
-//        str.length > 0 ? el.innerHTML += str.shift() : clearTimeout(running);
-//        var running = setTimeout(animate, 80);
-//    })();
+    var string = "Working on my personal brand, stay tuned";
+    var str = string.split("");
+    var el = document.getElementById('str');
+    (function animate() {
+        str.length > 0 ? el.innerHTML += str.shift() : clearTimeout(running);
+        var running = setTimeout(animate, 80);
+    })();
 });
