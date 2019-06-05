@@ -452,8 +452,8 @@ body::-webkit-scrollbar {
         /*        text-wrap: wrap;*/
     }
 
-    .header > .main-content > .highlights {
-        margin-top: -25rem;
+    .header > .main-content > .main-headings {
+        margin-top: -5rem;
     }
 }
 
