@@ -357,7 +357,7 @@ body::-webkit-scrollbar {
     color: #2D2DFC;
     background-color: #fffffe;
     width: 5rem;
-    padding: 0rem .4rem;
+    padding: .4rem;
     margin-left: .4rem;
 }
 
