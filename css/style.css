@@ -352,11 +352,7 @@ body::-webkit-scrollbar {
 }
 
 .header > .main-content > .highlights {
-    color: #2D2DFC;
-    background-color: #fffffe;
-    width: 5rem;
-    padding: .4rem;
-    margin-left: .4rem;
+    color: #fffffe;
 }
 
 /*
@@ -447,7 +443,7 @@ body::-webkit-scrollbar {
 @media (max-width: 400px) {
     .main-headings {
         font-size: 5rem;
-        line-height: 4rem;
+        line-height: 5rem;
 
         /*        text-wrap: wrap;*/
     }
