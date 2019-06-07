@@ -443,7 +443,7 @@ body::-webkit-scrollbar {
 @media (max-width: 400px) {
     .main-headings {
         font-size: 5rem;
-        line-height: 5rem;
+        line-height: 4rem;
 
         /*        text-wrap: wrap;*/
     }
@@ -812,7 +812,7 @@ body::-webkit-scrollbar {
     }
 
     #work > .content > .photo-links > .work-info > .links {
-        padding: .2rem;
+        padding: 2rem;
         background-color: #fffffe;
         color: #101010;
         margin-left: 4%;
@@ -1470,7 +1470,7 @@ body::-webkit-scrollbar {
 
     width: 100%;
     margin-bottom: 5rem;
-    padding: 2rem 4rem;
+    padding: 2rem 2rem;
 
     text-transform: capitalize;
     /*    opacity: .8;*/
