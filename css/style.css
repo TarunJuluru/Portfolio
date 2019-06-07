@@ -147,7 +147,7 @@ a:hover {
 
     button {
         width: 100%;
-        text-align: center;
+        text-align: left;
         border: none;
     }
 }
@@ -274,7 +274,7 @@ body::-webkit-scrollbar {
 
 .bar-nav > nav ul li {
     padding: 2rem 2rem;
-    text-align: center;
+    text-align: left;
 
 
     background-color: #101010;
