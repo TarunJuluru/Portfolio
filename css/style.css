@@ -109,7 +109,7 @@ button:hover {
     letter-spacing: .08rem;
     text-transform: uppercase;
 
-    color: #2D2DFC;
+    color: #101010;
 }
 
 /*
@@ -136,7 +136,7 @@ a:hover {
 
     text-transform: uppercase;
 
-    color: #2D2DFC;
+    color: #101010;
 }
 
 @media (max-width: 400px) {
@@ -162,7 +162,7 @@ a:hover {
 
     text-transform: uppercase;
 
-    color: #2D2DFC;
+    color: #101010;
 }
 
 .paragraphs {
@@ -175,7 +175,7 @@ a:hover {
 
     letter-spacing: .04rem;
 
-    color: #1C1C1B;
+    color: #101010;
 }
 
 
@@ -189,7 +189,7 @@ body::-webkit-scrollbar {
 
 *::selection {
     color: #fffffe;
-    background: #2D2DFC;
+    background: #101010;
 }
 
 .bar-nav {
@@ -205,7 +205,7 @@ body::-webkit-scrollbar {
 .bar-nav > .top-bar {
     display: flex;
 
-    background-color: #2D2DFC;
+    background-color: #101010;
 }
 
 .bar-nav > .top-bar > .logo,
@@ -239,7 +239,7 @@ body::-webkit-scrollbar {
     text-transform: capitalize;
 
     color: #fffffe;
-    background-color: #2D2DFC;
+    background-color: #101010;
 
     align-self: flex-end;
 }
@@ -255,14 +255,14 @@ body::-webkit-scrollbar {
     transition: all .4s ease;
 
     opacity: 0;
-    background: #2D2DFC;
+    background: #101010;
 }
 
 .bar-nav > .nav-toggle {
     /*    padding-top: 2rem;*/
     /*    padding-bottom: 4rem;*/
     opacity: 1;
-    /*    border-top: .2rem solid #2D2DFC;*/
+    /*    border-top: .2rem solid #101010;*/
 }
 
 .bar-nav > nav ul {
@@ -277,7 +277,7 @@ body::-webkit-scrollbar {
     text-align: center;
 
 
-    background-color: #2D2DFC;
+    background-color: #101010;
 
     flex-grow: 1;
 }
@@ -292,12 +292,12 @@ body::-webkit-scrollbar {
 .bar-nav > nav ul li:hover {
     transition: all .4s ease;
 
-    color: #2D2DFC;
+    color: #101010;
     background-color: #fffffe;
 }
 
 .bar-nav > nav ul li:hover a {
-    color: #2D2DFC;
+    color: #101010;
 }
 
 
@@ -335,24 +335,24 @@ body::-webkit-scrollbar {
     width: 100%;
     margin: 0 auto;
 
-    color: #2D2DFC;
+    color: #101010;
 }
 
 .header > .main-content > h1.main-headings > span {
     color: #fffffe;
 
-    -webkit-text-stroke: .2rem #2D2DFC;
+    -webkit-text-stroke: .2rem #101010;
 }
 
 .header > .main-content > h1.main-headings > span:hover {
     transition: all .4s ease;
 
-    color: #2D2DFC;
-    -webkit-text-stroke: 0rem #2D2DFC;
+    color: #101010;
+    -webkit-text-stroke: 0rem #101010;
 }
 
 .header > .main-content > .highlights {
-    color: #fffffe;
+    color: #101010;
 }
 
 /*
@@ -398,17 +398,17 @@ body::-webkit-scrollbar {
 
     padding: 2rem 4rem;
 
-    color: #2D2DFC;
+    color: #101010;
     border: none;
     background-color: #fffffe;
-    border: .2rem solid #2D2DFC;
+    border: .2rem solid #101010;
 }
 
 .header > .main-content > .main-buttons > a > button:hover {
     transition: all .4s ease;
 
-    color: #2D2DFC;
-    background-color: #fffffe;
+    color: #fffffe;
+    background-color: #101010;
 }
 
 @media (max-width: 1800px) {
@@ -503,8 +503,8 @@ body::-webkit-scrollbar {
 
     .bar-nav > .top-bar > .logo > .links {
         /*        padding: 3em 4rem;*/
-        color: #fffffe;
-        background-color: #2D2DFC;
+        color: #101010;
+        background-color: #fffffe;
     }
 
     .bar-nav > nav ul {
@@ -520,7 +520,7 @@ body::-webkit-scrollbar {
         transition: all .2s ease-out;
 
         opacity: 0;
-        background: #2D2DFC;
+        background-color: #fffffe;
     }
 
     .bar-nav > nav ul li {
@@ -529,7 +529,7 @@ body::-webkit-scrollbar {
 
 
 
-        /*        background: #2D2DFC;*/
+        /*        background: #101010;*/
 
         flex-basis: 100%;
     }
@@ -544,15 +544,15 @@ body::-webkit-scrollbar {
 
         height: 10rem;
 
-        color: #2D2DFC;
-        background: #2D2DFC;
+        color: #101010;
+        background-color: #fffffe;
     }
 
     .bar-nav > .top-bar > .menu-button > span.content {
         position: relative;
 
-        color: #fffffe;
-        background-color: #2D2DFC;
+        color: #101010;
+        background-color: #fffffe;
 
         align-self: flex-end;
     }
@@ -562,10 +562,10 @@ body::-webkit-scrollbar {
 #aboutme {
     margin-top: 25rem;
     padding-bottom: 20rem;
-    /* background: #2D2DFC;
-    background:         linear-gradient(to right, #2D2DFC, #fffffe); */
+    /* background: #101010;
+    background:         linear-gradient(to right, #101010, #fffffe); */
 
-    background-color: #2D2DFC;
+    background-color: #101010;
 }
 
 
@@ -603,14 +603,14 @@ body::-webkit-scrollbar {
 
     color: #fffffe;
     border: none;
-    background-color: #2D2DFC;
+    background-color: #101010;
     border: .2rem solid #fffffe;
 }
 
 #aboutme > .content > .para-photo-links > .photo-links > .aboutme-buttons > a > button:hover {
     transition: all .4s ease;
 
-    color: #2D2DFC;
+    color: #101010;
     background-color: #fffffe;
 }
 
@@ -676,15 +676,15 @@ body::-webkit-scrollbar {
 #work > .content > .timeline {
     padding-top: 5rem;
 
-    color: #2D2DFC;
-    /*    background-color: #2D2DFC;*/
+    color: #101010;
+    /*    background-color: #101010;*/
 }
 
 #work > .content > .timeline2 {
     margin-top: 10rem;
 
-    color: #2D2DFC;
-    /*    background-color: #2D2DFC;*/
+    color: #101010;
+    /*    background-color: #101010;*/
 }
 
 #work > .content > .photo-links {
@@ -718,7 +718,7 @@ body::-webkit-scrollbar {
     padding-left: 5%;
 
     background-color: #fffffe;
-    color: #2D2DFC;
+    color: #101010;
 
     flex-basis: 20%;
 }
@@ -729,31 +729,31 @@ body::-webkit-scrollbar {
     padding: 2rem 4rem;
     /*    margin-bottom: 2%;*/
 
-    color: #2D2DFC;
+    color: #101010;
     border: none;
     background-color: #fffffe;
-    border: .2rem solid #2D2DFC;
+    border: .2rem solid #101010;
 }
 
 #work > .content > .photo-links > .work-info > a > button:hover {
     transition: all .4s ease;
 
     color: #fffffe;
-    background-color: #2D2DFC;
+    background-color: #101010;
 }
 
 #work > .content > .photo-links > .work-info > .links {
     padding: 2%;
 
     color: #fffffe;
-    background: #2D2DFC;
+    background: #101010;
 }
 
 #work > .content > .photo-links > .work-info > .highlights {
     padding-top: 20%;
 
     opacity: .8;
-    color: #2D2DFC;
+    color: #101010;
 }
 
 
@@ -761,7 +761,7 @@ body::-webkit-scrollbar {
     margin-bottom: 5rem;
     padding-top: 20rem;
 
-    color: #2D2DFC;
+    color: #101010;
 }
 
 #work > .content > .photo-links a {
@@ -808,13 +808,13 @@ body::-webkit-scrollbar {
         padding-top: 0%;
 
         flex-basis: 100%;
-        background-color: #2D2DFC;
+        background-color: #101010;
     }
 
     #work > .content > .photo-links > .work-info > .links {
         padding: .2rem;
         background-color: #fffffe;
-        color: #2D2DFC;
+        color: #101010;
         margin-left: 4%;
     }
 
@@ -873,7 +873,7 @@ body::-webkit-scrollbar {
 #workflow {
     padding-bottom: 20rem;
 
-    background-color: #2D2DFC;
+    background-color: #101010;
     /*    height: 100vh;*/
 }
 
@@ -1046,8 +1046,8 @@ body::-webkit-scrollbar {
 
 #articles {
     padding-bottom: 20rem;
-    /* background: #2D2DFC;
-    background:         linear-gradient(to right, #2D2DFC, #fffffe); */
+    /* background: #101010;
+    background:         linear-gradient(to right, #101010, #fffffe); */
 
     background-color: #fffffe;
     /*    height: 100vh;*/
@@ -1068,7 +1068,7 @@ body::-webkit-scrollbar {
 #articles > .content > h1 {
     padding-top: 20rem;
 
-    color: #2D2DFC;
+    color: #101010;
 }
 
 #articles > .content > .brd-dp {
@@ -1092,24 +1092,24 @@ body::-webkit-scrollbar {
     padding-top: 5%;
     padding-right: 5%;
 
-    color: #1C1C1B;
+    color: #101010;
 }
 
 #articles > .content > .brd-dp > .brd > .article-info > a > button {
     margin-top: 5%;
     padding: 2rem 4rem;
 
-    color: #2D2DFC;
+    color: #101010;
     border: none;
     background-color: #fffffe;
-    border: .2rem solid #2D2DFC;
+    border: .2rem solid #101010;
 }
 
 #articles > .content > .brd-dp > .brd > .article-info > a > button:hover {
     transition: all .4s ease;
 
     color: #fffffe;
-    background-color: #2D2DFC;
+    background-color: #101010;
 }
 
 
@@ -1130,17 +1130,17 @@ body::-webkit-scrollbar {
     margin-top: 10%;
     padding: 2rem 4rem;
 
-    color: #2D2DFC;
+    color: #101010;
     border: none;
     background-color: #fffffe;
-    border: .2rem solid #2D2DFC;
+    border: .2rem solid #101010;
 }
 
 #articles > .content > .brd-dp > .dp > .article-info > a > button:hover {
     transition: all .4s ease;
 
     color: #fffffe;
-    background-color: #2D2DFC;
+    background-color: #101010;
 }
 
 #articles > .content > .brd-dp > .dp > .article-info > .photo-links > .tag {
@@ -1158,7 +1158,7 @@ body::-webkit-scrollbar {
     text-transform: capitalize;
 
     color: #fffffe;
-    background-color: #2D2DFC;
+    background-color: #101010;
 }
 
 @media (max-width: 1280px) {
@@ -1238,10 +1238,10 @@ body::-webkit-scrollbar {
 
 #freelancing {
     padding-bottom: 20rem;
-    /* background: #2D2DFC;
-    background:         linear-gradient(to right, #2D2DFC, #fffffe); */
+    /* background: #101010;
+    background:         linear-gradient(to right, #101010, #fffffe); */
 
-    background-color: #2D2DFC;
+    background-color: #101010;
 }
 
 #freelancing > .content {
@@ -1322,14 +1322,14 @@ body::-webkit-scrollbar {
 
     color: #fffffe;
     border: none;
-    background-color: #2D2DFC;
+    background-color: #101010;
     border: .2rem solid #fffffe;
 }
 
 #freelancing > .content > a > button:hover {
     transition: all .4s ease;
 
-    color: #2D2DFC;
+    color: #101010;
     background-color: #fffffe;
 }
 
@@ -1395,8 +1395,8 @@ body::-webkit-scrollbar {
 
 #get-in-touch {
     padding-bottom: 20rem;
-    /* background: #2D2DFC;
-    background:         linear-gradient(to right, #2D2DFC, #fffffe); */
+    /* background: #101010;
+    background:         linear-gradient(to right, #101010, #fffffe); */
 
     background-color: #fffffe;
 
@@ -1415,14 +1415,14 @@ body::-webkit-scrollbar {
 #get-in-touch > .content > h1 {
     padding-top: 20rem;
 
-    color: #2D2DFC;
+    color: #101010;
 }
 
 
 #get-in-touch > .content > p {
     padding-top: 10rem;
 
-    color: #1C1C1B;
+    color: #101010;
 }
 
 #get-in-touch > .content > .emails {
@@ -1476,7 +1476,7 @@ body::-webkit-scrollbar {
     /*    opacity: .8;*/
 
     border: none;
-    background-color: #2D2DFC;
+    background-color: #101010;
 }
 
 
@@ -1490,7 +1490,7 @@ body::-webkit-scrollbar {
     /*    opacity: .8;*/
 
     border: none;
-    background-color: #2D2DFC;
+    background-color: #101010;
 }
 
 
@@ -1512,25 +1512,25 @@ body::-webkit-scrollbar {
     margin-top: 8%;
     padding: 2rem 4rem;
 
-    color: #2D2DFC;
+    color: #101010;
     border: none;
     background-color: #fffffe;
-    border: .2rem solid #2D2DFC;
+    border: .2rem solid #101010;
 }
 
 #get-in-touch > .content > form > button:hover {
     transition: all .4s ease;
 
     color: #fffffe;
-    background-color: #2D2DFC;
+    background-color: #101010;
 }
 
 #get-in-touch > .content > .emails > .gmail {
-    color: #2D2DFC;
+    color: #101010;
 }
 
 #get-in-touch > .content > .emails > .gmail > .highlights {
-    color: #2D2DFC;
+    color: #101010;
 }
 
 @media (max-width: 1280px) {
@@ -1576,17 +1576,17 @@ body::-webkit-scrollbar {
     margin-right: 2rem;
     padding: 2rem 4rem;
 
-    color: #2D2DFC;
+    color: #101010;
     border: none;
     background-color: #fffffe;
-    border: .2rem solid #2D2DFC;
+    border: .2rem solid #101010;
 }
 
 #get-in-touch > .content > .social-media ul > li > a.links:hover {
     transition: all .4s ease;
 
     color: #fffffe;
-    background-color: #2D2DFC;
+    background-color: #101010;
 }
 
 
@@ -1651,12 +1651,12 @@ body::-webkit-scrollbar {
 }
 
 #thank-you > .content > h1 {
-    color: #2D2DFC;
+    color: #101010;
 }
 
 
 #thank-you > .content > .highlights {
-    color: #2D2DFC;
+    color: #101010;
 }
 
 #thank-you > a > button {
@@ -1666,17 +1666,17 @@ body::-webkit-scrollbar {
 
     padding: 2rem 4rem;
 
-    color: #2D2DFC;
+    color: #101010;
     border: none;
     background-color: #fffffe;
-    border: .2rem solid #2D2DFC;
+    border: .2rem solid #101010;
 }
 
 #thank-you > a > button:hover {
     transition: all .4s ease;
 
     color: #fffffe;
-    background-color: #2D2DFC;
+    background-color: #101010;
 }
 
 
@@ -1726,28 +1726,28 @@ body::-webkit-scrollbar {
 
     text-decoration: none;
 
-    color: #2D2DFC;
+    color: #101010;
     border: none;
     background-color: #fffffe;
-    border: .2rem solid #2D2DFC;
+    border: .2rem solid #101010;
 }
 
 .main-content > .back > a > button:hover {
     transition: all .4s ease;
 
     color: #fffffe;
-    background-color: #2D2DFC;
+    background-color: #101010;
 }
 
 
 .main-content > h1.main-headings {
     width: 48%;
 
-    color: #2D2DFC;
+    color: #101010;
 }
 
 .main-content > p.paragraphs {
-    color: #1C1C1B;
+    color: #101010;
     margin-top: 5rem;
 }
 
@@ -1777,13 +1777,13 @@ body::-webkit-scrollbar {
 #details > .content > .left-right > .right > ul > li > a {
     text-decoration: none;
 
-    color: #1C1C1B;
+    color: #101010;
 }
 
 #details > .content > .left-right > .left > .highlights {
     margin-top: 1rem;
 
-    color: #2D2DFC;
+    color: #101010;
 }
 
 #details > .content > .left-right > .left > ul {
@@ -1795,14 +1795,14 @@ body::-webkit-scrollbar {
     margin-top: 1rem;
 
     opacity: .8;
-    color: #2D2DFC;
+    color: #101010;
 }
 
 
 #details > .content > .left-right > .right > .highlights {
     margin-top: 1rem;
 
-    color: #2D2DFC;
+    color: #101010;
 }
 
 #details > .content > .left-right > .right > ul {
@@ -1810,7 +1810,7 @@ body::-webkit-scrollbar {
 }
 
 #details > .content > .left-right > .right > ul > li > .url {
-    color: #2D2DFC;
+    color: #101010;
 }
 
 
@@ -1818,7 +1818,7 @@ body::-webkit-scrollbar {
     margin-top: 1rem;
 
     opacity: .8;
-    color: #2D2DFC;
+    color: #101010;
 }
 
 
@@ -1866,13 +1866,13 @@ body::-webkit-scrollbar {
     margin-top: -2rem;
     padding-bottom: 5rem;
 
-    color: #1C1C1B;
+    color: #101010;
 }
 
 #details-info > .content > .details-info-section > .links {
     margin-bottom: 5rem;
 
-    color: #2D2DFC;
+    color: #101010;
 }
 
 #details-info > .content > .details-info-section > img {
@@ -1979,7 +1979,7 @@ body::-webkit-scrollbar {
 #gf-works > .content > .gf-works-section > .links {
     margin-bottom: 5rem;
 
-    color: #2D2DFC;
+    color: #101010;
 }
 
 #gf-works > .content > .gf-works-section > img {
@@ -1991,7 +1991,7 @@ body::-webkit-scrollbar {
     margin-top: 2rem;
     padding-bottom: 5rem;
 
-    color: #1C1C1B;
+    color: #101010;
 }
 
 @media (max-width: 1280px) {
@@ -2023,7 +2023,7 @@ body::-webkit-scrollbar {
     margin-bottom: 5rem;
     padding: 5rem;
 
-    background-color: #2D2DFC;
+    background-color: #101010;
 }
 
 #branding > .content > .branding-section > blockquote > p {
@@ -2041,13 +2041,13 @@ body::-webkit-scrollbar {
     margin-top: -2rem;
     padding-bottom: 5rem;
 
-    color: #1C1C1B;
+    color: #101010;
 }
 
 #branding > .content > .branding-section > .links {
     margin-bottom: 5rem;
 
-    color: #2D2DFC;
+    color: #101010;
 }
 
 #branding > .content > .branding-section > .highlights > a {
@@ -2055,13 +2055,13 @@ body::-webkit-scrollbar {
 
     text-decoration: none;
 
-    color: #2D2DFC;
+    color: #101010;
 }
 
 #branding > .content > .branding-section > .highlights {
     margin-bottom: 2rem;
 
-    color: #2D2DFC;
+    color: #101010;
 }
 
 
