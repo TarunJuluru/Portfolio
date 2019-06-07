@@ -145,11 +145,11 @@ a:hover {
         line-height: 4rem;
     }
 
-    /*button {
+    button {
         width: 100%;
-        text-align: left;
+        text-align: center;
         border: none;
-    }*/
+    }
 }
 
 .highlights {
