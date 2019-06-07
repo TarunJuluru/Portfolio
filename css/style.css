@@ -912,6 +912,7 @@ body::-webkit-scrollbar {
 
 #workflow > .content > .pen-paper-figma-more > .pen-paper > .highlights {
     margin-top: 1rem;
+    color: #fffffe;
 }
 
 
@@ -929,6 +930,7 @@ body::-webkit-scrollbar {
 
 #workflow > .content > .pen-paper-figma-more > .figma > .highlights {
     margin-top: 1rem;
+    color: #fffffe;
 }
 
 #workflow > .content > .pen-paper-figma-more > .figma > ul {
@@ -945,6 +947,7 @@ body::-webkit-scrollbar {
 
 #workflow > .content > .pen-paper-figma-more > .more > .highlights {
     margin-top: 1rem;
+    color: #fffffe;
 }
 
 #workflow > .content > .pen-paper-figma-more > .more > ul {
