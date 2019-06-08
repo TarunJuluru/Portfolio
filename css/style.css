@@ -173,7 +173,7 @@ a:hover {
     font-style: normal;
     line-height: 3rem;
 
-    letter-spacing: .04rem;
+    /*letter-spacing: .04rem;*/
 
     color: #101010;
 }
