@@ -1,7 +1,6 @@
 
 
-@import url('https://fonts.googleapis.com/css?family=Scope+One&display=swap');
-
+@import url('https://fonts.googleapis.com/css?family=Sacramento&display=swap');
 
 /*reset styles*/
 
@@ -87,7 +86,7 @@ button:hover {
 /*default typography styles*/
 
 .links {
-    font-family: 'Scope One', serif;
+    font-family: 'Sacramento', cursive;
     font-size: 1.6rem;
     font-weight: 600;
     font-style: normal;
@@ -96,7 +95,7 @@ button:hover {
 
     text-decoration: none;
     letter-spacing: .08rem;
-    text-transform: uppercase;
+    /*text-transform: uppercase;*/
 
     color: #101010;
 }
@@ -116,11 +115,11 @@ a:hover {
 */
 
 .main-headings {
-    font-family: 'Scope One', serif;
-    font-size: 6rem;
+    font-family: 'Sacramento', cursive;
+    font-size: 5rem;
     font-weight: 900;
     font-style: normal;
-    line-height: 5rem;
+    line-height: 4rem;
     /*    letter-spacing: .08rem;*/
 
     /*text-transform: uppercase;*/
@@ -142,21 +141,21 @@ a:hover {
 }
 
 .highlights {
-    font-family: 'Work Sans', sans-serif;
+    font-family: 'Sacramento', cursive;
     font-size: 1.6rem;
     font-weight: 600;
     font-style: normal;
     line-height: 2rem;
     /*    letter-spacing: .08em;*/
 
-    text-transform: uppercase;
+    /*text-transform: uppercase;*/
 
     color: #101010;
 }
 
 .paragraphs {
     /*    opacity: .8;*/
-    font-family: 'Work Sans', sans-serif;
+    font-family: 'Sacramento', cursive;
     font-size: 2rem;
     font-weight: 400;
     font-style: normal;
@@ -327,7 +326,7 @@ body::-webkit-scrollbar {
     color: #101010;
 }
 
-.header > .main-content > h1.main-headings > span {
+/*.header > .main-content > h1.main-headings > span {
     color: #fffffe;
 
     -webkit-text-stroke: .2rem #101010;
@@ -338,7 +337,7 @@ body::-webkit-scrollbar {
 
     color: #101010;
     -webkit-text-stroke: 0rem #101010;
-}
+}*/
 
 .header > .main-content > .highlights {
     color: #101010;
