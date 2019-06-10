@@ -115,13 +115,13 @@ a:hover {
 
 .main-headings {
     font-family: 'Raleway', sans-serif;
-    font-size: 5rem;
+    font-size: 3rem;
     font-weight: 200;
     font-style: normal;
-    line-height: 4rem;
+    line-height: 2rem;
     /*    letter-spacing: .08rem;*/
 
-    /*text-transform: uppercase;*/
+    text-transform: capitalize;
 
     color: #101010;
 }
@@ -147,7 +147,7 @@ a:hover {
     line-height: 2rem;
     /*    letter-spacing: .08em;*/
 
-    /*text-transform: uppercase;*/
+    text-transform: uppercase;
 
     color: #101010;
 }
@@ -323,6 +323,7 @@ body::-webkit-scrollbar {
     margin: 0 auto;
 
     color: #101010;
+    text-transform: Normal;
 }
 
 /*.header > .main-content > h1.main-headings > span {
