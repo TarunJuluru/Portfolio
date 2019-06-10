@@ -1,6 +1,4 @@
 
-@import url('https://fonts.googleapis.com/css?family=Didact+Gothic&display=swap');
-/*reset styles*/
 
 * {
     -webkit-box-sizing: border-box;
@@ -84,9 +82,9 @@ button:hover {
 /*default typography styles*/
 
 .links {
-    font-family: 'Didact Gothic', sans-serif;
+    font-family: 'work sans', sans-serif;
     font-size: 1.6rem;
-    font-weight: 400;
+    font-weight: 700;
     font-style: normal;
     line-height: 2rem;
 
@@ -113,14 +111,14 @@ a:hover {
 */
 
 .main-headings {
-    font-family: 'Didact Gothic', sans-serif;
-    font-size: 2rem;
-    font-weight: 400;
+    font-family: 'work sans', sans-serif;
+    font-size: 10rem;
+    font-weight: 900;
     font-style: normal;
-    line-height: 2rem;
+    line-height: 8rem;
     /*    letter-spacing: .08rem;*/
 
-    text-transform: normal;
+    text-transform: uppercase;
 
     color: #101010;
 }
@@ -139,9 +137,9 @@ a:hover {
 }
 
 .highlights {
-    font-family: 'Didact Gothic', sans-serif;
+    font-family: 'work sans', sans-serif;
     font-size: 1.6rem;
-    font-weight: 400;
+    font-weight: 700;
     font-style: normal;
     line-height: 2rem;
     /*    letter-spacing: .08em;*/
@@ -153,9 +151,9 @@ a:hover {
 
 .paragraphs {
     /*    opacity: .8;*/
-    font-family: 'Didact Gothic', sans-serif;
+    font-family: 'work sans', sans-serif;
     font-size: 2rem;
-    font-weight: 400;
+    font-weight: 500;
     font-style: normal;
     line-height: 3rem;
 
