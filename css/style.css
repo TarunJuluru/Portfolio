@@ -531,6 +531,7 @@ body::-webkit-scrollbar {
 
         color: #101010;
         background-color: #fffffe;
+        border-bottom: .2rem solid #101010;
     }
 
     .bar-nav > .top-bar > .menu-button > span.content {
