@@ -1,7 +1,6 @@
 
 
-@import url('https://fonts.googleapis.com/css?family=Sacramento&display=swap');
-
+@import url('https://fonts.googleapis.com/css?family=Raleway&display=swap');
 /*reset styles*/
 
 * {
@@ -86,9 +85,9 @@ button:hover {
 /*default typography styles*/
 
 .links {
-    font-family: 'Sacramento', cursive;
+    font-family: 'Raleway', sans-serif;
     font-size: 1.6rem;
-    font-weight: 600;
+    font-weight: 200;
     font-style: normal;
     line-height: 2rem;
 
@@ -115,9 +114,9 @@ a:hover {
 */
 
 .main-headings {
-    font-family: 'Sacramento', cursive;
+    font-family: 'Raleway', sans-serif;
     font-size: 5rem;
-    font-weight: 100;
+    font-weight: 200;
     font-style: normal;
     line-height: 4rem;
     /*    letter-spacing: .08rem;*/
@@ -141,9 +140,9 @@ a:hover {
 }
 
 .highlights {
-    font-family: 'Sacramento', cursive;
+    font-family: 'Raleway', sans-serif;
     font-size: 1.6rem;
-    font-weight: 600;
+    font-weight: 200;
     font-style: normal;
     line-height: 2rem;
     /*    letter-spacing: .08em;*/
@@ -155,7 +154,7 @@ a:hover {
 
 .paragraphs {
     /*    opacity: .8;*/
-    font-family: 'Sacramento', cursive;
+    font-family: 'Raleway', sans-serif;
     font-size: 2rem;
     font-weight: 400;
     font-style: normal;
