@@ -87,7 +87,7 @@ button:hover {
 .links {
     font-family: 'Raleway', sans-serif;
     font-size: 1.6rem;
-    font-weight: 200;
+    font-weight: 400;
     font-style: normal;
     line-height: 2rem;
 
@@ -115,13 +115,13 @@ a:hover {
 
 .main-headings {
     font-family: 'Raleway', sans-serif;
-    font-size: 3rem;
-    font-weight: 200;
+    font-size: 2rem;
+    font-weight: 400;
     font-style: normal;
     line-height: 2rem;
     /*    letter-spacing: .08rem;*/
 
-    text-transform: capitalize;
+    text-transform: normal;
 
     color: #101010;
 }
@@ -142,7 +142,7 @@ a:hover {
 .highlights {
     font-family: 'Raleway', sans-serif;
     font-size: 1.6rem;
-    font-weight: 200;
+    font-weight: 400;
     font-style: normal;
     line-height: 2rem;
     /*    letter-spacing: .08em;*/
