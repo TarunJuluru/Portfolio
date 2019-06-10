@@ -12,6 +12,8 @@ html {
 }
 */
 
+@import url('https://fonts.googleapis.com/css?family=Merriweather&display=swap');
+
 
 
 /*reset styles*/
@@ -98,7 +100,7 @@ button:hover {
 /*default typography styles*/
 
 .links {
-    font-family: 'Work Sans', sans-serif;
+    font-family: 'Merriweather', serif;
     font-size: 1.6rem;
     font-weight: 600;
     font-style: normal;
@@ -127,7 +129,7 @@ a:hover {
 */
 
 .main-headings {
-    font-family: 'Work Sans', sans-serif;
+    font-family: 'Merriweather', serif;
     font-size: 10rem;
     font-weight: 900;
     font-style: normal;
