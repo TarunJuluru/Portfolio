@@ -1,6 +1,5 @@
 
-
-@import url('https://fonts.googleapis.com/css?family=Raleway&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Didact+Gothic&display=swap');
 /*reset styles*/
 
 * {
@@ -85,7 +84,7 @@ button:hover {
 /*default typography styles*/
 
 .links {
-    font-family: 'Raleway', sans-serif;
+    font-family: 'Didact Gothic', sans-serif;
     font-size: 1.6rem;
     font-weight: 400;
     font-style: normal;
@@ -114,7 +113,7 @@ a:hover {
 */
 
 .main-headings {
-    font-family: 'Raleway', sans-serif;
+    font-family: 'Didact Gothic', sans-serif;
     font-size: 2rem;
     font-weight: 400;
     font-style: normal;
@@ -140,7 +139,7 @@ a:hover {
 }
 
 .highlights {
-    font-family: 'Raleway', sans-serif;
+    font-family: 'Didact Gothic', sans-serif;
     font-size: 1.6rem;
     font-weight: 400;
     font-style: normal;
@@ -154,7 +153,7 @@ a:hover {
 
 .paragraphs {
     /*    opacity: .8;*/
-    font-family: 'Raleway', sans-serif;
+    font-family: 'Didact Gothic', sans-serif;
     font-size: 2rem;
     font-weight: 400;
     font-style: normal;
