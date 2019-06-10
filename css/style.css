@@ -1,19 +1,6 @@
-/*
-@import url('https://rsms.me/inter/inter.css');
 
-html {
-    font-family: 'Work Sans', sans-serif;
-}
 
-@supports (font-variation-settings: normal) {
-    html {
-        font-family: 'Work Sans', sans-serif;
-    }
-}
-*/
-
-@import url('https://fonts.googleapis.com/css?family=Merriweather&display=swap');
-
+@import url('https://fonts.googleapis.com/css?family=Scope+One&display=swap');
 
 
 /*reset styles*/
@@ -129,11 +116,11 @@ a:hover {
 */
 
 .main-headings {
-    font-family: 'Merriweather', serif;
-    font-size: 10rem;
+    font-family: 'Scope One', serif;
+    font-size: 6rem;
     font-weight: 900;
     font-style: normal;
-    line-height: 8rem;
+    line-height: 5rem;
     /*    letter-spacing: .08rem;*/
 
     text-transform: uppercase;
