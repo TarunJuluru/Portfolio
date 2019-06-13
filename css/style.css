@@ -153,7 +153,7 @@ a:hover {
     font-size: 2rem;
     font-weight: 500;
     font-style: normal;
-    line-height: 3.6rem;
+    line-height: 3.4rem;
 
     /*letter-spacing: .04rem;*/
 
@@ -428,8 +428,6 @@ body::-webkit-scrollbar {
     .main-headings {
         font-size: 5rem;
         line-height: 4rem;
-
-        /*        text-wrap: wrap;*/
     }
 
     .header > .main-content > .highlights {
@@ -486,7 +484,7 @@ body::-webkit-scrollbar {
     }
 
     .bar-nav > .top-bar > .logo > .links {
-        /*        padding: 3em 4rem;*/
+        padding: 3em 4rem;
         color: #101010;
         background-color: #fffffe;
     }
@@ -540,6 +538,7 @@ body::-webkit-scrollbar {
         background-color: #fffffe;
 
         align-self: flex-end;
+        padding: 3rem 4rem;
     }
 }
 
