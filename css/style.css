@@ -5,6 +5,10 @@
     padding: 0;
 }
 
+*:focus {
+  outline: none !important;
+}
+
 ul {
     list-style: none;
 }
