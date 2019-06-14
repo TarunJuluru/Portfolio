@@ -6,7 +6,7 @@
 }
 
 *:focus {
-  outline: none !important;
+    outline: none !important;
 }
 
 ul {
@@ -114,10 +114,10 @@ a:hover {
 
 .main-headings {
     font-family: 'work sans', sans-serif;
-    font-size: 10rem;
+    font-size: 12rem;
     font-weight: 900;
     font-style: normal;
-    line-height: 8rem;
+    line-height: 10rem;
     /*    letter-spacing: .08rem;*/
 
     text-transform: uppercase;
@@ -157,7 +157,7 @@ a:hover {
     font-size: 2rem;
     font-weight: 500;
     font-style: normal;
-    line-height: 3.4rem;
+    line-height: 3.2rem;
 
     /*letter-spacing: .04rem;*/
 
@@ -183,7 +183,7 @@ body::-webkit-scrollbar {
     /*    position: fixed;*/
     top: 0;
 
-    width: 48%;
+    width: 40%;
     margin: 0 auto;
 }
 
@@ -234,7 +234,7 @@ body::-webkit-scrollbar {
 .bar-nav > nav {
     position: absolute;
 
-    width: 48%;
+    width: 40%;
     height: 0;
     margin: 0 auto;
 
@@ -255,7 +255,7 @@ body::-webkit-scrollbar {
     display: flex;
 
     width: 100%;
-    border-top: .2rem solid #fffffe;
+    border: .2rem solid #101010;
 }
 
 .bar-nav > nav ul li {
@@ -263,7 +263,7 @@ body::-webkit-scrollbar {
     text-align: center;
 
 
-    background-color: #101010;
+    background-color: #fffffe;
 
     flex-grow: 1;
 }
@@ -272,23 +272,23 @@ body::-webkit-scrollbar {
 .bar-nav > nav ul li a.links {
     text-transform: uppercase;
 
-    color: #fffffe;
+    color: #101010;
 }
 
 .bar-nav > nav ul li:hover {
     transition: all .4s ease;
 
-    color: #101010;
-    background-color: #fffffe;
+    color: #fffffe;
+    background-color: #101010;
 }
 
 .bar-nav > nav ul li:hover a {
-    color: #101010;
+    color: #fffffe;
 }
 
 
 .header {
-    max-width: 48%;
+    max-width: 40%;
     margin: 0 auto;
 }
 
@@ -325,7 +325,8 @@ body::-webkit-scrollbar {
     text-transform: Normal;
 }
 
-/*.header > .main-content > h1.main-headings > span {
+/*
+.header > .main-content > h1.main-headings > span {
     color: #fffffe;
 
     -webkit-text-stroke: .2rem #101010;
@@ -336,50 +337,25 @@ body::-webkit-scrollbar {
 
     color: #101010;
     -webkit-text-stroke: 0rem #101010;
-}*/
+}
+*/
 
 .header > .main-content > .highlights {
     color: #101010;
     margin-top: -4%;
 }
 
-/*
-.header > .main-content > .main-buttons > a > button > .dot {
-    position: absolute;
-    right: 0;
-    bottom: 3rem;
-
-    width: 1rem;
-    height: 1rem;
-
-    animation: blink 1s 0s infinite;
-
-    color: #fffffe;
-    background-color: #fffffe;
-}
-
-@keyframes blink {
-    50% {
-        opacity: 0;
-    }
-}
-
-@media (max-width: 1280px) {
-    .header > .main-content > .main-buttons > a > button > .dot {
-        bottom: 1rem;
-    }
-}
-*/
-
-/*
 .header > .main-content > p {
 
-    margin-top: 5rem;
-    font-weight: 300;
-
-    color: #fffffe;
+    max-width: 100%;
 }
-*/
+
+
+.header > .main-content > .p2 {
+
+    margin-top: 2rem;
+}
+
 
 .header > .main-content > .main-buttons > a > button {
     position: relative;
@@ -435,7 +411,7 @@ body::-webkit-scrollbar {
     }
 
     .header > .main-content > .highlights {
-        margin-top: -48%;
+        margin-top: -40%;
     }
 }
 
@@ -559,7 +535,7 @@ body::-webkit-scrollbar {
 
 
 #aboutme > .content {
-    max-width: 48%;
+    max-width: 40%;
     margin: 0 auto;
 }
 
@@ -655,7 +631,7 @@ body::-webkit-scrollbar {
 }
 
 #work > .content {
-    max-width: 48%;
+    max-width: 40%;
     margin: 0 auto;
 }
 
@@ -866,7 +842,7 @@ body::-webkit-scrollbar {
 }
 
 #workflow > .content {
-    max-width: 48%;
+    max-width: 40%;
     margin: 0 auto;
 }
 
@@ -1045,7 +1021,7 @@ body::-webkit-scrollbar {
 }
 
 #articles > .content {
-    max-width: 48%;
+    max-width: 40%;
     margin: 0 auto;
 }
 
@@ -1236,7 +1212,7 @@ body::-webkit-scrollbar {
 }
 
 #freelancing > .content {
-    max-width: 48%;
+    max-width: 40%;
     margin: 0 auto;
 }
 
@@ -1399,7 +1375,7 @@ body::-webkit-scrollbar {
 }
 
 #get-in-touch > .content {
-    max-width: 48%;
+    max-width: 40%;
     margin: 0 auto;
 }
 
@@ -1628,7 +1604,7 @@ body::-webkit-scrollbar {
 #thank-you {
     position: relative;
 
-    max-width: 48%;
+    max-width: 40%;
     margin: 0 auto;
     margin-top: 0rem;
     padding: 5rem 0rem 5rem 0rem;
@@ -1704,7 +1680,7 @@ body::-webkit-scrollbar {
 }
 
 #details > .content {
-    max-width: 48%;
+    max-width: 40%;
     margin: 0 auto;
 }
 
@@ -1732,7 +1708,7 @@ body::-webkit-scrollbar {
 
 
 .main-content > h1.main-headings {
-    width: 48%;
+    width: 40%;
 
     color: #101010;
 }
@@ -1820,7 +1796,7 @@ body::-webkit-scrollbar {
 }
 
 #details-info > .content {
-    max-width: 48%;
+    max-width: 40%;
     margin: 0 auto;
 }
 
@@ -1959,7 +1935,7 @@ body::-webkit-scrollbar {
 }
 
 #gf-works > .content {
-    max-width: 48%;
+    max-width: 40%;
     margin: 0 auto;
 }
 
@@ -2002,7 +1978,7 @@ body::-webkit-scrollbar {
 }
 
 #branding > .content {
-    max-width: 48%;
+    max-width: 40%;
     margin: 0 auto;
 }
 
@@ -2042,7 +2018,7 @@ body::-webkit-scrollbar {
 }
 
 #branding > .content > .branding-section > .highlights > a {
-    width: 48%;
+    width: 40%;
 
     text-decoration: none;
 
