@@ -86,7 +86,7 @@ button:hover {
 .links {
     font-family: 'work sans', sans-serif;
     font-size: 1.6rem;
-    font-weight: 700;
+    font-weight: 600;
     font-style: normal;
     line-height: 2rem;
 
@@ -141,7 +141,7 @@ a:hover {
 .highlights {
     font-family: 'work sans', sans-serif;
     font-size: 1.6rem;
-    font-weight: 700;
+    font-weight: 600;
     font-style: normal;
     line-height: 2rem;
     /*    letter-spacing: .08em;*/
@@ -155,7 +155,7 @@ a:hover {
     /*    opacity: .8;*/
     font-family: 'work sans', sans-serif;
     font-size: 2rem;
-    font-weight: 500;
+    font-weight: 400;
     font-style: normal;
     line-height: 3.2rem;
 
@@ -325,7 +325,6 @@ body::-webkit-scrollbar {
     text-transform: Normal;
 }
 
-/*
 .header > .main-content > h1.main-headings > span {
     color: #fffffe;
 
@@ -338,7 +337,7 @@ body::-webkit-scrollbar {
     color: #101010;
     -webkit-text-stroke: 0rem #101010;
 }
-*/
+
 
 .header > .main-content > .highlights {
     color: #101010;
@@ -860,12 +859,12 @@ body::-webkit-scrollbar {
 
 
 #workflow > .content > .pen-paper-figma-more > .pen-paper {
-    flex-grow: 6;
+    flex-grow: 8;
 }
 
 
 #workflow > .content > .pen-paper-figma-more > .figma {
-    flex-grow: 6;
+    flex-grow: 8;
 }
 
 
@@ -1242,7 +1241,7 @@ body::-webkit-scrollbar {
 
 
 #freelancing > .content > .dpd-gd > .gd {
-    flex-grow: 4;
+    flex-grow: 2;
 }
 
 
