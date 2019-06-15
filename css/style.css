@@ -412,6 +412,11 @@ body::-webkit-scrollbar {
     .header > .main-content > .highlights {
         margin-top: -40%;
     }
+
+   .header > .main-content > p {
+        font-size: 1.6rem;
+        line-height: 2.8rem;
+    }
 }
 
 .main-content > .main-buttons {
