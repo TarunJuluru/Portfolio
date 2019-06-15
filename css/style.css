@@ -127,8 +127,8 @@ a:hover {
 
 @media (max-width: 400px) {
     .main-headings {
-        font-size: 6rem;
-        line-height: 5rem;
+        font-size: 7rem;
+        line-height: 6rem;
     }
 
     button {
