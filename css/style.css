@@ -118,7 +118,7 @@ a:hover {
     font-weight: 900;
     font-style: normal;
     line-height: 10rem;
-    /*    letter-spacing: .08rem;*/
+    letter-spacing: .08rem;
 
     text-transform: uppercase;
 
@@ -128,7 +128,7 @@ a:hover {
 @media (max-width: 400px) {
     .main-headings {
         font-size: 4.8rem;
-        line-height: 5rem;
+        line-height: 4.8rem;
     }
 
     button {
@@ -406,7 +406,7 @@ body::-webkit-scrollbar {
 @media (max-width: 400px) {
     .main-headings {
         font-size: 4.8rem;
-        line-height: 5rem;
+        line-height: 4.8rem;
     }
 
     .header > .main-content > .highlights {
