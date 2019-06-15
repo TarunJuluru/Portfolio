@@ -86,7 +86,7 @@ button:hover {
 .links {
     font-family: 'work sans', sans-serif;
     font-size: 1.6rem;
-    font-weight: 600;
+    font-weight: 700;
     font-style: normal;
     line-height: 2rem;
 
@@ -118,7 +118,7 @@ a:hover {
     font-weight: 900;
     font-style: normal;
     line-height: 10rem;
-    /*    letter-spacing: .08rem;*/
+    letter-spacing: .08rem;
 
     text-transform: uppercase;
 
@@ -127,8 +127,8 @@ a:hover {
 
 @media (max-width: 400px) {
     .main-headings {
-        font-size: 5rem;
-        line-height: 4rem;
+        font-size: 7rem;
+        line-height: 6rem;
     }
 
     button {
@@ -141,7 +141,7 @@ a:hover {
 .highlights {
     font-family: 'work sans', sans-serif;
     font-size: 1.6rem;
-    font-weight: 600;
+    font-weight: 700;
     font-style: normal;
     line-height: 2rem;
     /*    letter-spacing: .08em;*/
@@ -154,10 +154,10 @@ a:hover {
 .paragraphs {
     /*    opacity: .8;*/
     font-family: 'work sans', sans-serif;
-    font-size: 2rem;
-    font-weight: 400;
+    font-size: 1.8rem;
+    font-weight: 500;
     font-style: normal;
-    line-height: 3.2rem;
+    line-height: 3rem;
 
     /*letter-spacing: .04rem;*/
 
@@ -404,10 +404,6 @@ body::-webkit-scrollbar {
 }
 
 @media (max-width: 400px) {
-    .main-headings {
-        font-size: 5rem;
-        line-height: 4rem;
-    }
 
     .header > .main-content > .highlights {
         margin-top: -40%;
