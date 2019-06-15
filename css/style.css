@@ -85,7 +85,7 @@ button:hover {
 
 .links {
     font-family: 'work sans', sans-serif;
-    font-size: 1.6rem;
+    font-size: 2rem;
     font-weight: 700;
     font-style: normal;
     line-height: 2rem;
@@ -140,7 +140,7 @@ a:hover {
 
 .highlights {
     font-family: 'work sans', sans-serif;
-    font-size: 1.6rem;
+    font-size: 2rem;
     font-weight: 700;
     font-style: normal;
     line-height: 2rem;
@@ -154,7 +154,7 @@ a:hover {
 .paragraphs {
     /*    opacity: .8;*/
     font-family: 'work sans', sans-serif;
-    font-size: 1.6rem;
+    font-size: 2rem;
     font-weight: 500;
     font-style: normal;
     line-height: 3rem;
